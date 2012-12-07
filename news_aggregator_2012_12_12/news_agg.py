@@ -6,7 +6,7 @@ import nltk
 #########################################
 feeds = [
     'http://www.sfgate.com/rss/feed/Tech-News-449.php',
-#    'http://feeds.feedburner.com/TechCrunch/startups'
+    'http://feeds.feedburner.com/TechCrunch/startups'
 ]
 
 #########################################
@@ -22,20 +22,16 @@ for feed in feeds:
        docs.append(words)
        data.append(nltk.Text(words))
 
-#d=feedparser.parse(feeds[0])
-#print d['entries'][0]['description']
-
 #########################################
 # this collection will enable us to 
 # read off TF-IDF easily
 #########################################
 col = nltk.TextCollection(data)
 
-import operator
-
 #########################################
 # get the top n keywords for a doc
 #########################################
+import operator
 def top_key_words(n,doc,data):
     d={}
     for word in set(doc):
@@ -45,17 +41,9 @@ def top_key_words(n,doc,data):
     keywords = [w[0] for w in sorted_d[:10]]
     return keywords
 
-#d={}
-#for word in set(docs[0]):
-#    d[word] = col.tf_idf(word,data[0])
-#
-#sorted_d = sorted(d.iteritems(), key=operator.itemgetter(1))
-#sorted_d.reverse()
-#keywords = [w[0] for w in sorted_d[:10]]
-#print keywords
-
 #########################################
-# output top keywords for 12 docs 
+# output top 10 keywords for 12 docs 
 #########################################
+number_keywords=10
 for i in xrange(0,12):
-   print top_key_words(10,docs[i],data[i])
+   print top_key_words(number_keywords,docs[i],data[i])

@@ -17,7 +17,6 @@ all_words=set()
 ndocs=5
 gct=-1
 for feed in feeds:
-    gct+=1
     d = feedparser.parse(feed)
     ct=-1
     for e in d['entries']:
@@ -26,12 +25,13 @@ for feed in feeds:
            words = nltk.wordpunct_tokenize(nltk.clean_html(e['description']))
            words.extend(nltk.wordpunct_tokenize(e['title']))
            lowerwords=[x.lower() for x in words if len(x) > 1]
-           print gct*ndocs+ct,e['title']
+           gct+=1
+           print gct,e['title']
            [all_words.add(w) for w in lowerwords]
            corpus.append(lowerwords)
 
 #########################################
-# tf idf implementation
+# tf-idf implementation
 # from http://timtrueman.com/a-quick-foray-into-linear-algebra-and-python-tf-idf/
 #########################################
 import math
@@ -59,13 +59,26 @@ def idf(word, documentList):
 def tfidf(word, document, documentList):
   return (tf(word,document) * idf(word,documentList))
 
+import operator
+def top_keywords(n,doc,corpus):
+    d = {}
+    for word in set(doc):
+        d[word] = tfidf(word,doc,corpus)
+    sorted_d = sorted(d.iteritems(), key=operator.itemgetter(1))
+    sorted_d.reverse()
+    return [w[0] for w in sorted_d[:n]]   
+
+key_word_list=set()
+[[key_word_list.add(x) for x in top_keywords(10,doc,corpus)] for doc in corpus]
+   
+print key_word_list
+
 feature_vectors=[]
 n=len(corpus)
 
-for i in xrange(0,n):
-    document=corpus[i]
+for document in corpus:
     vec=[]
-    for word in all_words:
+    for word in key_word_list:
        if word in document:
            vec.append(tfidf(word, document, corpus))
        else:
@@ -101,3 +114,5 @@ import matplotlib
 print "dendro=",dendrogram(Z)
 
 dendrogram(Z)
+
+print len(key_word_list)

@@ -1,5 +1,6 @@
-import feedparser
-import nltk
+'''
+This is a very crude news aggregator
+'''
 
 #########################################
 # define our feeds
@@ -17,23 +18,19 @@ feeds = [
 #########################################
 # parse the feeds into a set of words per document
 #########################################
+import feedparser
+import nltk
 corpus = []
-all_words=set()
-ndocs=100
-gct=-1
+ct = -1
 for feed in feeds:
     d = feedparser.parse(feed)
-    ct=-1
     for e in d['entries']:
-       ct+=1
-       if ct < ndocs:
-           words = [] #nltk.wordpunct_tokenize(nltk.clean_html(e['description']))
-           words.extend(nltk.wordpunct_tokenize(e['title']))
-           lowerwords=[x.lower() for x in words if len(x) > 1]
-           gct+=1
-           print gct,e['title']
-           [all_words.add(w) for w in lowerwords]
-           corpus.append(lowerwords)
+       words = nltk.wordpunct_tokenize(nltk.clean_html(e['description']))
+       words.extend(nltk.wordpunct_tokenize(e['title']))
+       lowerwords=[x.lower() for x in words if len(x) > 1]
+       ct += 1
+       print ct, e['title']
+       corpus.append(lowerwords)
 
 #########################################
 # tf-idf implementation
@@ -53,6 +50,10 @@ def tf(word, document): return (freq(word,document) / float(wordCount(document))
 def idf(word, documentList): return math.log(len(documentList) / numDocsContaining(word,documentList))
 def tfidf(word, document, documentList): return (tf(word,document) * idf(word,documentList))
 
+#########################################
+# extract top keywords from each doc.
+# This defines features of our common feature vector
+#########################################
 import operator
 def top_keywords(n,doc,corpus):
     d = {}
@@ -63,59 +64,43 @@ def top_keywords(n,doc,corpus):
     return [w[0] for w in sorted_d[:n]]   
 
 key_word_list=set()
-[[key_word_list.add(x) for x in top_keywords(4,doc,corpus)] for doc in corpus]
+nkeywords=20
+[[key_word_list.add(x) for x in top_keywords(nkeywords,doc,corpus)] for doc in corpus]
    
-#print key_word_list
 ct=-1
 for doc in corpus:
    ct+=1
-   print ct,top_keywords(4,doc,corpus)
+   print ct,top_keywords(nkeywords,doc,corpus)
 
+#########################################
+# turn each doc into a feature vector using TF-IDF score
+#########################################
 feature_vectors=[]
 n=len(corpus)
 
 for document in corpus:
     vec=[]
-    for word in key_word_list:
-       if word in document:
-           vec.append(tfidf(word, document, corpus))
-       else:
-          vec.append(0)
+    [vec.append(tfidf(word, document, corpus) if word in document else 0) for word in key_word_list]
     feature_vectors.append(vec)
 
+#########################################
+# now turn that into symmatrix matrix of 
+# cosine similarities
+#########################################
 import numpy
 mat = numpy.empty((n, n))
-
 for i in xrange(0,n):
     for j in xrange(0,n):
-        #if i > j:
-        mat[i][j] = nltk.cluster.util.cosine_distance(feature_vectors[i],feature_vectors[j])
-        if mat[i][j] < 0.0000001:
-           mat[i][j] = 0
-
+       mat[i][j] = nltk.cluster.util.cosine_distance(feature_vectors[i],feature_vectors[j])
 print mat
 
-#print n
-for i in xrange(0,n):
-    s=""
-    for j in xrange(0,n):
-       s+= str(round(mat[i][j],5)) + "\t"
-#    print s
-
-from hcluster import pdist, linkage, dendrogram
-#Y = pdist(feature_vectors)
-#print "Y=", Y
-
-#Z = linkage(feature_vectors, 'single')
+#########################################
+# now hierarchically cluster mat
+#########################################
+from hcluster import linkage, dendrogram
 Z = linkage(mat, 'single')
-#print "Z=", Z
-import matplotlib
-#print "dendro=",dendrogram(Z)
+dendrogram(Z, color_threshold=0.75)
 
-dendrogram(Z, color_threshold=1.0)
-
-#print len(key_word_list)
-#import time
-#time.sleep(35)
 import pylab
-pylab.savefig( "temp.png" ,dpi=800)
+pylab.savefig( "hcluster.png" ,dpi=800)
+print Z

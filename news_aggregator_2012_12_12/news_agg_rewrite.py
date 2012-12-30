@@ -21,6 +21,7 @@ feeds = [
 import feedparser
 import nltk
 corpus = []
+titles=[]
 ct = -1
 for feed in feeds:
     d = feedparser.parse(feed)
@@ -31,6 +32,7 @@ for feed in feeds:
        ct += 1
        print ct, e['title']
        corpus.append(lowerwords)
+       titles.append(e['title'])
 
 #########################################
 # tf-idf implementation
@@ -64,13 +66,13 @@ def top_keywords(n,doc,corpus):
     return [w[0] for w in sorted_d[:n]]   
 
 key_word_list=set()
-nkeywords=20
+nkeywords=6
 [[key_word_list.add(x) for x in top_keywords(nkeywords,doc,corpus)] for doc in corpus]
    
 ct=-1
 for doc in corpus:
    ct+=1
-   print ct,top_keywords(nkeywords,doc,corpus)
+   print ct," ".join(top_keywords(nkeywords,doc,corpus))
 
 #########################################
 # turn each doc into a feature vector using TF-IDF score
@@ -92,15 +94,68 @@ mat = numpy.empty((n, n))
 for i in xrange(0,n):
     for j in xrange(0,n):
        mat[i][j] = nltk.cluster.util.cosine_distance(feature_vectors[i],feature_vectors[j])
-print mat
+#print mat
 
 #########################################
 # now hierarchically cluster mat
 #########################################
 from hcluster import linkage, dendrogram
+t = 0.85
 Z = linkage(mat, 'single')
-dendrogram(Z, color_threshold=0.75)
+dendrogram(Z, color_threshold=t)
 
 import pylab
 pylab.savefig( "hcluster.png" ,dpi=800)
-print Z
+#print Z
+
+#########################################
+# extract our clusters
+#########################################
+def extract_clusters(Z,threshold,n):
+   clusters={}
+   ct=n
+   for row in Z:
+      if row[2] < threshold:
+          n1=int(row[0])
+          n2=int(row[1])
+
+          if n1 >= n:
+             l1=clusters[n1] 
+             del(clusters[n1]) 
+          else:
+             l1= [n1]
+      
+          if n2 >= n:
+             l2=clusters[n2] 
+             del(clusters[n2]) 
+          else:
+             l2= [n2]    
+          l1.extend(l2)  
+          clusters[ct] = l1
+          ct += 1
+      else:
+          return clusters
+
+clusters = extract_clusters(Z,t,n)
+ 
+#########################################
+# output pairs of OK aggregated documents
+#########################################
+#for row in Z:
+#   if row[2] < t:
+#      n1=int(row[0])
+#      n2=int(row[1])
+#      if n1 < len(titles) and n2 < len(titles):
+#          print "============================================="
+#          print row[2]
+#          print n1, titles[n1]
+#          print n2, titles[n2]
+for key in clusters:
+   print "============================================="	
+   for id in clusters[key]:
+       print id,titles[id]
+
+#print mat[95][85]
+#print feature_vectors[95]
+#print feature_vectors[85]
+#print key_word_list

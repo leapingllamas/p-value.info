@@ -94,7 +94,6 @@ mat = numpy.empty((n, n))
 for i in xrange(0,n):
     for j in xrange(0,n):
        mat[i][j] = nltk.cluster.util.cosine_distance(feature_vectors[i],feature_vectors[j])
-#print mat
 
 #########################################
 # now hierarchically cluster mat
@@ -106,7 +105,6 @@ dendrogram(Z, color_threshold=t)
 
 import pylab
 pylab.savefig( "hcluster.png" ,dpi=800)
-#print Z
 
 #########################################
 # extract our clusters
@@ -138,24 +136,7 @@ def extract_clusters(Z,threshold,n):
 
 clusters = extract_clusters(Z,t,n)
  
-#########################################
-# output pairs of OK aggregated documents
-#########################################
-#for row in Z:
-#   if row[2] < t:
-#      n1=int(row[0])
-#      n2=int(row[1])
-#      if n1 < len(titles) and n2 < len(titles):
-#          print "============================================="
-#          print row[2]
-#          print n1, titles[n1]
-#          print n2, titles[n2]
 for key in clusters:
    print "============================================="	
    for id in clusters[key]:
        print id,titles[id]
-
-#print mat[95][85]
-#print feature_vectors[95]
-#print feature_vectors[85]
-#print key_word_list

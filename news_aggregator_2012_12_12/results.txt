@@ -1,0 +1,180 @@
+wt=1,k=12,t=0.75
+=============================================
+35 Huawei linked to plan to sell restricted equipment to Iran
+65 Exclusive: Huawei partner offered embargoed HP gear to Iran
+=============================================
+10 UK's Pearson invests in Barnes & Noble's Nook
+73 Pearson to buy stake in Nook, Barnes & Noble shares up
+=============================================
+21 Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
+94 Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
+=============================================
+90 Data suggests Facebook's Poke has led to online buzz around Snapchat
+93 Snapchat videos and photos can be saved after all
+=============================================
+77 Samsung Galaxy S III extended battery arriving in Germany on January 5
+98 ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
+75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
+92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
+=============================================
+84 Fujitsu blames weak Windows 8 demand for poor sales
+87 Cheezburger network raises $5M in funding for LOLcats, FAIL Blog, others
+79 Samsung has big plans for Silicon Valley with 1.1 million square foot R&D center
+89 Apple drops patent claim against Samsung Galaxy S III Mini
+
+
+wt=5,k=12,t=0.75
+=============================================
+10 UK's Pearson invests in Barnes & Noble's Nook
+73 Pearson to buy stake in Nook, Barnes & Noble shares up
+=============================================
+21 Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
+94 Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
+=============================================
+35 Huawei linked to plan to sell restricted equipment to Iran
+65 Exclusive: Huawei partner offered embargoed HP gear to Iran
+=============================================
+90 Data suggests Facebook's Poke has led to online buzz around Snapchat
+93 Snapchat videos and photos can be saved after all
+=============================================
+77 Samsung Galaxy S III extended battery arriving in Germany on January 5
+98 ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
+75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
+92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
+=============================================
+84 Fujitsu blames weak Windows 8 demand for poor sales
+87 Cheezburger network raises $5M in funding for LOLcats, FAIL Blog, others
+79 Samsung has big plans for Silicon Valley with 1.1 million square foot R&D center
+89 Apple drops patent claim against Samsung Galaxy S III Mini
+
+wt=1,k=8,t=0.75
+=============================================
+10 UK's Pearson invests in Barnes & Noble's Nook
+73 Pearson to buy stake in Nook, Barnes & Noble shares up
+=============================================
+35 Huawei linked to plan to sell restricted equipment to Iran
+65 Exclusive: Huawei partner offered embargoed HP gear to Iran
+=============================================
+21 Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
+94 Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
+=============================================
+90 Data suggests Facebook's Poke has led to online buzz around Snapchat
+93 Snapchat videos and photos can be saved after all
+=============================================
+87 Cheezburger network raises $5M in funding for LOLcats, FAIL Blog, others
+79 Samsung has big plans for Silicon Valley with 1.1 million square foot R&D center
+89 Apple drops patent claim against Samsung Galaxy S III Mini
+=============================================
+77 Samsung Galaxy S III extended battery arriving in Germany on January 5
+92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
+75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
+98 ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
+
+wt=1,k=16,t=0.75
+=============================================
+35 Huawei linked to plan to sell restricted equipment to Iran
+65 Exclusive: Huawei partner offered embargoed HP gear to Iran
+=============================================
+10 UK's Pearson invests in Barnes & Noble's Nook
+73 Pearson to buy stake in Nook, Barnes & Noble shares up
+=============================================
+21 Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
+94 Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
+=============================================
+79 Samsung has big plans for Silicon Valley with 1.1 million square foot R&D center
+89 Apple drops patent claim against Samsung Galaxy S III Mini
+=============================================
+77 Samsung Galaxy S III extended battery arriving in Germany on January 5
+98 ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
+75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
+92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
+=============================================
+90 Data suggests Facebook's Poke has led to online buzz around Snapchat
+93 Snapchat videos and photos can be saved after all
+
+wt=1,t=20,t=0.75
+=============================================
+35 Huawei linked to plan to sell restricted equipment to Iran
+65 Exclusive: Huawei partner offered embargoed HP gear to Iran
+=============================================
+10 UK's Pearson invests in Barnes & Noble's Nook
+73 Pearson to buy stake in Nook, Barnes & Noble shares up
+=============================================
+21 Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
+94 Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
+=============================================
+75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
+92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
+
+wt=1,t=4,t=0.75
+=============================================
+35 Huawei linked to plan to sell restricted equipment to Iran
+65 Exclusive: Huawei partner offered embargoed HP gear to Iran
+=============================================
+10 UK's Pearson invests in Barnes & Noble's Nook
+73 Pearson to buy stake in Nook, Barnes & Noble shares up
+=============================================
+21 Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
+94 Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
+=============================================
+90 Data suggests Facebook's Poke has led to online buzz around Snapchat
+93 Snapchat videos and photos can be saved after all
+=============================================
+14 Apple CEO Tim Cook paid $4.16 million
+41 Apple's Tim Cook sees his 2012 pay fall 99 percent
+=============================================
+8 Netflix CEO gets pay bump after 2012 cut
+72 Netflix increases CEO Hastings' 2013 salary to $4 million
+=============================================
+95 Nissan Leaf owners can get their batteries refreshed under new warranty options
+99 Japanese security firm to take to the sky in 2014, will unleash crime-fighting drones
+=============================================
+84 Fujitsu blames weak Windows 8 demand for poor sales
+87 Cheezburger network raises $5M in funding for LOLcats, FAIL Blog, others
+79 Samsung has big plans for Silicon Valley with 1.1 million square foot R&D center
+89 Apple drops patent claim against Samsung Galaxy S III Mini
+=============================================
+52 US Department of Justice is investigating allegations of accounting fraud at Autonomy
+11 HP says gov't investigating troubled Autonomy unit
+39 Autonomy founder fires back at HP after news of DOJ inquiry
+=============================================
+83 Windows RT ported to HTC HD2
+77 Samsung Galaxy S III extended battery arriving in Germany on January 5
+92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
+75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
+98 ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
+
+wt=4,k=4,t=0.75
+=============================================
+10 UK's Pearson invests in Barnes & Noble's Nook
+73 Pearson to buy stake in Nook, Barnes & Noble shares up
+=============================================
+21 Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
+94 Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
+=============================================
+35 Huawei linked to plan to sell restricted equipment to Iran
+65 Exclusive: Huawei partner offered embargoed HP gear to Iran
+=============================================
+90 Data suggests Facebook's Poke has led to online buzz around Snapchat
+93 Snapchat videos and photos can be saved after all
+=============================================
+14 Apple CEO Tim Cook paid $4.16 million
+41 Apple's Tim Cook sees his 2012 pay fall 99 percent
+=============================================
+95 Nissan Leaf owners can get their batteries refreshed under new warranty options
+99 Japanese security firm to take to the sky in 2014, will unleash crime-fighting drones
+=============================================
+83 Windows RT ported to HTC HD2
+77 Samsung Galaxy S III extended battery arriving in Germany on January 5
+92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
+75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
+98 ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
+=============================================
+8 Netflix CEO gets pay bump after 2012 cut
+72 Netflix increases CEO Hastings' 2013 salary to $4 million
+=============================================
+97 RIM's first patent payment to Nokia: $65 million
+84 Fujitsu blames weak Windows 8 demand for poor sales
+87 Cheezburger network raises $5M in funding for LOLcats, FAIL Blog, others
+79 Samsung has big plans for Silicon Valley with 1.1 million square foot R&D center
+89 Apple drops patent claim against Samsung Galaxy S III Mini

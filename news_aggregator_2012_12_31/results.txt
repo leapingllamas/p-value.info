@@ -1,112 +1,203 @@
-wt=1,k=12,t=0.75
-=============================================
-35 Huawei linked to plan to sell restricted equipment to Iran
-65 Exclusive: Huawei partner offered embargoed HP gear to Iran
-=============================================
-10 UK's Pearson invests in Barnes & Noble's Nook
-73 Pearson to buy stake in Nook, Barnes & Noble shares up
-=============================================
-21 Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
-94 Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
-=============================================
-90 Data suggests Facebook's Poke has led to online buzz around Snapchat
-93 Snapchat videos and photos can be saved after all
-=============================================
-77 Samsung Galaxy S III extended battery arriving in Germany on January 5
-98 ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
-75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
-92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
-=============================================
-84 Fujitsu blames weak Windows 8 demand for poor sales
-87 Cheezburger network raises $5M in funding for LOLcats, FAIL Blog, others
-79 Samsung has big plans for Silicon Valley with 1.1 million square foot R&D center
-89 Apple drops patent claim against Samsung Galaxy S III Mini
-
-
-wt=5,k=12,t=0.75
-=============================================
-10 UK's Pearson invests in Barnes & Noble's Nook
-73 Pearson to buy stake in Nook, Barnes & Noble shares up
-=============================================
-21 Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
-94 Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
-=============================================
-35 Huawei linked to plan to sell restricted equipment to Iran
-65 Exclusive: Huawei partner offered embargoed HP gear to Iran
-=============================================
-90 Data suggests Facebook's Poke has led to online buzz around Snapchat
-93 Snapchat videos and photos can be saved after all
-=============================================
-77 Samsung Galaxy S III extended battery arriving in Germany on January 5
-98 ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
-75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
-92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
-=============================================
-84 Fujitsu blames weak Windows 8 demand for poor sales
-87 Cheezburger network raises $5M in funding for LOLcats, FAIL Blog, others
-79 Samsung has big plans for Silicon Valley with 1.1 million square foot R&D center
-89 Apple drops patent claim against Samsung Galaxy S III Mini
-
-wt=1,k=8,t=0.75
-=============================================
-10 UK's Pearson invests in Barnes & Noble's Nook
-73 Pearson to buy stake in Nook, Barnes & Noble shares up
-=============================================
-35 Huawei linked to plan to sell restricted equipment to Iran
-65 Exclusive: Huawei partner offered embargoed HP gear to Iran
-=============================================
-21 Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
-94 Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
-=============================================
-90 Data suggests Facebook's Poke has led to online buzz around Snapchat
-93 Snapchat videos and photos can be saved after all
-=============================================
-87 Cheezburger network raises $5M in funding for LOLcats, FAIL Blog, others
-79 Samsung has big plans for Silicon Valley with 1.1 million square foot R&D center
-89 Apple drops patent claim against Samsung Galaxy S III Mini
-=============================================
-77 Samsung Galaxy S III extended battery arriving in Germany on January 5
-92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
-75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
-98 ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
-
-wt=1,k=16,t=0.75
-=============================================
-35 Huawei linked to plan to sell restricted equipment to Iran
-65 Exclusive: Huawei partner offered embargoed HP gear to Iran
-=============================================
-10 UK's Pearson invests in Barnes & Noble's Nook
-73 Pearson to buy stake in Nook, Barnes & Noble shares up
-=============================================
-21 Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
-94 Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
-=============================================
-79 Samsung has big plans for Silicon Valley with 1.1 million square foot R&D center
-89 Apple drops patent claim against Samsung Galaxy S III Mini
-=============================================
-77 Samsung Galaxy S III extended battery arriving in Germany on January 5
-98 ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
-75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
-92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
-=============================================
-90 Data suggests Facebook's Poke has led to online buzz around Snapchat
-93 Snapchat videos and photos can be saved after all
-
-wt=1,t=20,t=0.75
-=============================================
-35 Huawei linked to plan to sell restricted equipment to Iran
-65 Exclusive: Huawei partner offered embargoed HP gear to Iran
-=============================================
-10 UK's Pearson invests in Barnes & Noble's Nook
-73 Pearson to buy stake in Nook, Barnes & Noble shares up
-=============================================
-21 Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
-94 Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
-=============================================
-75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
-92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
-
-wt=1,t=4,t=0.75
+0 TITLE Tweeters say the dumbest things
+1 TITLE IFixit thrives by breaking tech items down
+2 TITLE Earthcam's New Year's Live 2013
+3 TITLE Content Fleet offers publishers hot tips
+4 TITLE Fashion wholesalers sew up deals online
+5 TITLE E-waste recycling becomes techie's mission
+6 TITLE Skeptical about exodus from Instagram
+7 TITLE EBay moves into brick-and-mortar world
+8 TITLE Netflix CEO gets pay bump after 2012 cut
+9 TITLE China court orders Apple to pay in rights dispute
+10 TITLE UK's Pearson invests in Barnes & Noble's Nook
+11 TITLE HP says gov't investigating troubled Autonomy unit
+12 TITLE China requires Internet users to register names
+13 TITLE 'Start-Ups' reality show gets the ax
+14 TITLE Apple CEO Tim Cook paid $4.16 million
+15 TITLE How The Huang Brothers Bootstrapped Guitar Hero To A Billion Dollar Business
+16 TITLE TigerLogic Acquires Storycode For Up To $7.25M To Bolster How Brands Reach Mobile Users
+17 TITLE OneWed Brings Its Inspirational Wedding Imagery To iPad
+18 TITLE Flying Home? Airport Chatter Brings Airport Info To iPhone, Socializes Travel
+19 TITLE Touch Publishing Platform Onswipe Now Reaching 10M Monthly Active Users On iOS
+20 TITLE When Kickstarter Delivers: Thanks To Simple, Effective Design, Supr’s Slim Wallet Exceeds Expectations
+21 TITLE Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
+22 TITLE The Social Gift-Giving Wars — Which One Looked Best For The Holiday Season?
+23 TITLE Silvercar Launches Its Simplified Vehicle Rental Service At Dallas/Fort Worth
+24 TITLE “In The Studio,” How Patrick Collison Guides Stripe In The Competitive Payments World
+25 TITLE The Woz Uses Cycloramic And An iPhone 5 To Street View His Kitchen
+26 TITLE Fab Achieves Mobile Commerce Goal With 56% Of Xmas Day Revenue From Its Apps
+27 TITLE There Are Now 1,000 Members Listing Their Homes Through ‘Unhotel’ Service Onefinestay
+28 TITLE Virurl Integrates RSS Into Its Sponsored Content Platform
+29 TITLE Inside Snapchat, The Little Photo-Sharing App That Launched A Sexting Scare
+30 TITLE Better For Companies: Slow And Steady Or Fast And Furious?
+31 TITLE SocialSafe, The Social Media Back-Up Tool, Raises $400K To Out-Archive Twitter, Facebook, LinkedIn
+32 TITLE A Hackathon Ushers In A Holiday Version Of Changemakrs, The Platform For Inspirational Quotes
+33 TITLE Food Discovery App Burpple Adds Photo-Editing With Six Filters
+34 TITLE Singapore-based Inventory Management Startup TradeGecko Rescues SMBs From Spreadsheet Hell
+35 TITLE Huawei linked to plan to sell restricted equipment to Iran
+36 TITLE Consumer electronics trade group wants startups... badly
+37 TITLE 'Twas a very mobile Christmas (week in review)
+38 TITLE Google's new VP9 video technology reaches public view
+39 TITLE Autonomy founder fires back at HP after news of DOJ inquiry
+40 TITLE HP confirms: Feds investigating the Autonomy acquisition
+41 TITLE Apple's Tim Cook sees his 2012 pay fall 99 percent
+42 TITLE Amazon again tops in e-tail customer satisfaction; Apple slips
+43 TITLE Chrome prepares to ax silent extensions
+44 TITLE Here comes Microsoft Surface Pro, 64 bits and all
+45 TITLE Video interview: Why develop for Windows 8?
+46 TITLE Top 10 CIO interviews of 2012
+47 TITLE China tightens rules on internet usage
+48 TITLE Top 10 cyber crime stories of 2012
+49 TITLE First smartphone and tablet designs from Africa are launched
+50 TITLE Hospitals to implement child protection database to log children who visit A&E
+51 TITLE Top 10 business software articles of 2012
+52 TITLE US Department of Justice is investigating allegations of accounting fraud at Autonomy
+53 TITLE Top 10 personal computing articles of 2012
+54 TITLE Samsung requests US ban on Ericsson products
+55 TITLE Top 10 broadband stories of 2012
+56 TITLE Top 10 financial services IT stories in 2012
+57 TITLE Contact center technology helps children track Santa Claus' sleigh
+58 TITLE Facebook pays £2.6m tax on £840m profit
+59 TITLE Top 10 IT security stories of 2012
+60 TITLE Top 10 IT outsourcing stories of 2012
+61 TITLE Top 10 mobile stories of 2012
+62 TITLE Nokia and RIM settle patent dispute
+63 TITLE BT wins BDUK broadband contract in Norfolk
+64 TITLE RIM sees fall in subscriptions as profits plummet
+65 TITLE Exclusive: Huawei partner offered embargoed HP gear to Iran
+66 TITLE Apple loses another copyright lawsuit in China: Xinhua
+67 TITLE Facebook Instagram use dived after photo fiasco: AppData
+68 TITLE Silicon Valley entrepreneur Krikorian quits Amazon board
+69 TITLE Autonomy's Lynch defends record as HP confirms Federal probe
+70 TITLE Apple to drop patent claims against new Samsung phone
+71 TITLE U.S. clears way for wider in-flight Internet deployment
+72 TITLE Netflix increases CEO Hastings' 2013 salary to $4 million
+73 TITLE Pearson to buy stake in Nook, Barnes & Noble shares up
+74 TITLE ZTE to sell off stake in unit worth 1.3 billion yuan
+75 TITLE Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
+76 TITLE Ask the Experts: Since Intel's Core i7 is cherry-picked during the binning process, does that make them better than the Core i3 or i5 for general performance and gaming?
+77 TITLE Samsung Galaxy S III extended battery arriving in Germany on January 5
+78 TITLE Foursquare talks about up dated privacy policies for 2013
+79 TITLE Samsung has big plans for Silicon Valley with 1.1 million square foot R&D center
+80 TITLE RumorTT: Apple to refresh MacBook Pro, Air in June, retain current designs
+81 TITLE Update by Amazon makes it easier to host static websites on S3
+82 TITLE Facebook fixes bug that would have allowed hackers to turn on users' webcams
+83 TITLE Windows RT ported to HTC HD2
+84 TITLE Fujitsu blames weak Windows 8 demand for poor sales
+85 TITLE Diablo III is not getting Team Deathmatch mode, Dueling to come in future patch
+86 TITLE ReportTT: Optical disc prices to increase nearly 50% in 2H13, according to CMC chariman
+87 TITLE Cheezburger network raises $5M in funding for LOLcats, FAIL Blog, others
+88 TITLE RumorTT: Droid Razr M HD specs have been leaked
+89 TITLE Apple drops patent claim against Samsung Galaxy S III Mini
+90 TITLE Data suggests Facebook's Poke has led to online buzz around Snapchat
+91 TITLE SpaceTT: Best launch photos of 2012
+92 TITLE RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
+93 TITLE Snapchat videos and photos can be saved after all
+94 TITLE Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
+95 TITLE Nissan Leaf owners can get their batteries refreshed under new warranty options
+96 TITLE Sony stops shipments of PS2 console in Japan
+97 TITLE RIM's first patent payment to Nokia: $65 million
+98 TITLE ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
+99 TITLE Japanese security firm to take to the sky in 2014, will unleash crime-fighting drones
+0 KEYWORDS she tweeted athletes south
+1 KEYWORDS ifixit repair devincenzi items
+2 KEYWORDS earthcam live famed sound
+3 KEYWORDS fleet content tips publishers
+4 KEYWORDS fashion designers wholesale wholesalers
+5 KEYWORDS waste electronics recycling techie
+6 KEYWORDS instagram privacy exodus skeptical
+7 KEYWORDS ebay macy shoppers moves
+8 KEYWORDS pay netflix bump cut
+9 KEYWORDS court rights distributed china
+10 KEYWORDS nook pearson noble barnes
+11 KEYWORDS hp autonomy ., gov
+12 KEYWORDS party register names surfers
+13 KEYWORDS reality bravo ups ax
+14 KEYWORDS cook apple map 16
+15 KEYWORDS dance pads charles we
+16 KEYWORDS storycode &# tigerlogic 8217
+17 KEYWORDS wedding imagery onewed ipad
+18 KEYWORDS airport travel airports chatter
+19 KEYWORDS onswipe traffic ios wordpress
+20 KEYWORDS wallet supr kickstarter slim
+21 KEYWORDS mega dotcom event his
+22 KEYWORDS gift giving services season
+23 KEYWORDS fort silvercar dallas airport
+24 KEYWORDS studio semil inaugural patrick
+25 KEYWORDS cycloramic witnessed wozniak sitcom
+26 KEYWORDS day revenue fab 56
+27 KEYWORDS onefinestay homes members unhotel
+28 KEYWORDS virurl content rss promote
+29 KEYWORDS snapchat sexting clone app
+30 KEYWORDS companies re operate pretty
+31 KEYWORDS socialsafe 400k ranger (~$
+32 KEYWORDS quotes site changemakrs holiday
+33 KEYWORDS burpple food discovery six
+34 KEYWORDS tradegecko inventory management based
+35 KEYWORDS iran equipment sell restricted
+36 KEYWORDS consumer wants electronics trade
+37 KEYWORDS utilities wristwatch activation secretly
+38 KEYWORDS vp9 google video fresh
+39 KEYWORDS autonomy hp fires doj
+40 KEYWORDS marred annual allegedly impropriety
+41 KEYWORDS cook apple 2m vastly
+42 KEYWORDS amazon satisfaction customer eighth
+43 KEYWORDS chrome extensions installing prepares
+44 KEYWORDS microsoft surface pro here
+45 KEYWORDS interview speaks anand krishnan
+46 KEYWORDS weekly experiences cio interviews
+47 KEYWORDS china internet tightens fully
+48 KEYWORDS cyber crime trends ten
+49 KEYWORDS designs tablet launched african
+50 KEYWORDS hospitals protection visit log
+51 KEYWORDS software programming interface main
+52 KEYWORDS fraud investigating justice department
+53 KEYWORDS wallets voted enough computing
+54 KEYWORDS ericsson products ban itc
+55 KEYWORDS broadband stories throughout give
+56 KEYWORDS regular conditions headlines tough
+57 KEYWORDS santa claus children sleigh
+58 KEYWORDS tax faces 6m pushing
+59 KEYWORDS security strategies key challenges
+60 KEYWORDS outsourcing uk 38 7bn
+61 KEYWORDS mobile players legs tails
+62 KEYWORDS dispute licensing heavyweights settle
+63 KEYWORDS broadband wins contract 40m
+64 KEYWORDS rim plummet quarterly disappointing
+65 KEYWORDS embargoed iran offered huawei
+66 KEYWORDS xinhua 160 loses 400
+67 KEYWORDS instagram photo use fiasco
+68 KEYWORDS krikorian entrepreneur board amazon
+69 KEYWORDS lynch federal investigators accounts
+70 KEYWORDS claims samsung phone patent
+71 KEYWORDS flight wider internet clears
+72 KEYWORDS salary hastings netflix chief
+73 KEYWORDS shares barnes pearson noble
+74 KEYWORDS yuan billion stake unit
+75 KEYWORDS fcc blackberry rim capable
+76 KEYWORDS question i7 i5 i3
+77 KEYWORDS battery extended germany pricing
+78 KEYWORDS foursquare check customers name
+79 KEYWORDS samsung square foot center
+80 KEYWORDS macbook air haswell june
+81 KEYWORDS host amazon used proxy
+82 KEYWORDS bug finding user researchers
+83 KEYWORDS rt windows so surprising
+84 KEYWORDS pc fujitsu demand sales
+85 KEYWORDS diablo blizzard pvp deathmatch
+86 KEYWORDS optical discs cmc restructuring
+87 KEYWORDS network cheezburger funding group
+88 KEYWORDS specifications device dual mb
+89 KEYWORDS mini iii samsung apple
+90 KEYWORDS snapchat poke mentions app
+91 KEYWORDS space images launch list
+92 KEYWORDS galaxy iv upgrade inch
+93 KEYWORDS snapchat destructing self messages
+94 KEYWORDS mega dotcom host our
+95 KEYWORDS nissan leaf warranty owners
+96 KEYWORDS playstation sony console ouya
+97 KEYWORDS payment nokia patent agreement
+98 KEYWORDS zte grand boots ces
+99 KEYWORDS drones soon 2014 drone
 =============================================
 35 Huawei linked to plan to sell restricted equipment to Iran
 65 Exclusive: Huawei partner offered embargoed HP gear to Iran
@@ -129,49 +220,19 @@ wt=1,t=4,t=0.75
 95 Nissan Leaf owners can get their batteries refreshed under new warranty options
 99 Japanese security firm to take to the sky in 2014, will unleash crime-fighting drones
 =============================================
-84 Fujitsu blames weak Windows 8 demand for poor sales
-87 Cheezburger network raises $5M in funding for LOLcats, FAIL Blog, others
-79 Samsung has big plans for Silicon Valley with 1.1 million square foot R&D center
-89 Apple drops patent claim against Samsung Galaxy S III Mini
+83 Windows RT ported to HTC HD2
+77 Samsung Galaxy S III extended battery arriving in Germany on January 5
+92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
+75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
+98 ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
 =============================================
+40 HP confirms: Feds investigating the Autonomy acquisition
 52 US Department of Justice is investigating allegations of accounting fraud at Autonomy
 11 HP says gov't investigating troubled Autonomy unit
 39 Autonomy founder fires back at HP after news of DOJ inquiry
 =============================================
-83 Windows RT ported to HTC HD2
-77 Samsung Galaxy S III extended battery arriving in Germany on January 5
-92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
-75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
-98 ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
-
-wt=4,k=4,t=0.75
-=============================================
-10 UK's Pearson invests in Barnes & Noble's Nook
-73 Pearson to buy stake in Nook, Barnes & Noble shares up
-=============================================
-21 Kim Dotcom To Host Mega’s Launch Event At His New Mega Zealand Mansion Next Month
-94 Kim Dotcom to host Mega's launch event at his New Zealand mega mansion next month
-=============================================
-35 Huawei linked to plan to sell restricted equipment to Iran
-65 Exclusive: Huawei partner offered embargoed HP gear to Iran
-=============================================
-90 Data suggests Facebook's Poke has led to online buzz around Snapchat
-93 Snapchat videos and photos can be saved after all
-=============================================
-14 Apple CEO Tim Cook paid $4.16 million
-41 Apple's Tim Cook sees his 2012 pay fall 99 percent
-=============================================
-95 Nissan Leaf owners can get their batteries refreshed under new warranty options
-99 Japanese security firm to take to the sky in 2014, will unleash crime-fighting drones
-=============================================
-83 Windows RT ported to HTC HD2
-77 Samsung Galaxy S III extended battery arriving in Germany on January 5
-92 RumorTT: Samsung Galaxy S IV rumored for April Launch with integrated S Pen
-75 Unnamed BlackBerry 10 device slides through FCC with AT&T-capable LTE abilities
-98 ZTE aiming for thinner 5-inch 1080p-capable smartphone, Grand S has grand dreams
-=============================================
-8 Netflix CEO gets pay bump after 2012 cut
-72 Netflix increases CEO Hastings' 2013 salary to $4 million
+55 Top 10 broadband stories of 2012
+63 BT wins BDUK broadband contract in Norfolk
 =============================================
 97 RIM's first patent payment to Nokia: $65 million
 84 Fujitsu blames weak Windows 8 demand for poor sales

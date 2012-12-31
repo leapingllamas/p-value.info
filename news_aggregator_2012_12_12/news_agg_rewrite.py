@@ -66,7 +66,7 @@ def top_keywords(n,doc,corpus):
     return [w[0] for w in sorted_d[:n]]   
 
 key_word_list=set()
-nkeywords=6
+nkeywords=4
 [[key_word_list.add(x) for x in top_keywords(nkeywords,doc,corpus)] for doc in corpus]
    
 ct=-1
@@ -99,7 +99,7 @@ for i in xrange(0,n):
 # now hierarchically cluster mat
 #########################################
 from hcluster import linkage, dendrogram
-t = 0.85
+t = 0.8
 Z = linkage(mat, 'single')
 dendrogram(Z, color_threshold=t)
 

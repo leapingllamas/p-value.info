@@ -30,7 +30,7 @@ for feed in feeds:
        words.extend(nltk.wordpunct_tokenize(e['title']))
        lowerwords=[x.lower() for x in words if len(x) > 1]
        ct += 1
-       print ct, e['title']
+       print ct, "TITLE",e['title']
        corpus.append(lowerwords)
        titles.append(e['title'])
 
@@ -72,7 +72,7 @@ nkeywords=4
 ct=-1
 for doc in corpus:
    ct+=1
-   print ct," ".join(top_keywords(nkeywords,doc,corpus))
+   print ct,"KEYWORDS"," ".join(top_keywords(nkeywords,doc,corpus))
 
 #########################################
 # turn each doc into a feature vector using TF-IDF score

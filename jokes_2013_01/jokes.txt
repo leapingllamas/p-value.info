@@ -1,0 +1,497 @@
+What do you call a breezy eagle's nest? AN airy aerie.
+When is a stuff we breathe like a 1/100th of a hectare? When it is an are.
+When is a 1/100th of a hectare like a stuff we breathe? When it is an air.
+When is an insect like a parent's sister? When it is an aunt.
+When is a parent's sister like an insect? When it is an ant.
+When is a portion of a circle like a vessel? When it is an ark.
+When is a vessel like a portion of a circle? When it is an arc.
+When is a the climb like a to agree? When it is an assent.
+When is a to agree like a the climb? When it is an ascent.
+When is an external part of the ear like a seer? When it is an oracle.
+When is a seer like an external part of the ear? When it is an auricle.
+When is a bucket handle like a bundle of hay? When it is a bale.
+When is a bundle of hay like a bucket handle? When it is a bail.
+When is a person to whom goods are committed for custody or repair like a the outer wall of a castle? When it is a bailey.
+When is a the outer wall of a castle like a person to whom goods are committed for custody or repair? When it is a bailee.
+When is a green felt like an one or more enclosed arms of the ocean? When it is a bays.
+When is an one or more enclosed arms of the ocean like a green felt? When it is a baize.
+What do you call an unable to bear children minor royalty? A barren baron.
+What do you call a man's name small fruit? A Barry berry.
+What do you call a forming the base an herb? A basal basil.
+When is a the bottom support for anything like a the lowest musical pitch or range? When it is a bass.
+When is a the lowest musical pitch or range like a the bottom support for anything? When it is a base.
+When is a what baseball players like to steal like a principal constituent of anything? When it is a basis.
+When is a principal constituent of anything like a what baseball players like to steal? When it is a bases.
+w1=[bat]
+d1=[a blind, flying rodent]
+w2=[batt]
+d2=[a flat pad]
+When is a blind, flying rodent like a flat pad? When it is a batt.
+When is a flat pad like a blind, flying rodent? When it is a bat.
+When is a bits per second like a brothel manager? When it is a bawd.
+When is a brothel manager like a bits per second? When it is a baud.
+When is an enclosed arm of the ocean like a Turkish official? When it is a bey.
+When is a Turkish official like an enclosed arm of the ocean? When it is a bay.
+When is a where i want to be like a type of tree? When it is a beech.
+When is a type of tree like a where i want to be? When it is a beach.
+When is a male friend like a curve or bend; double-slipped reef knot? When it is a bow.
+When is a curve or bend; double-slipped reef knot like a male friend? When it is a beau.
+When is a slang for beauty, beautiful like a steep sided hill? When it is a butte.
+When is a steep sided hill like a slang for beauty, beautiful? When it is a beaut.
+When is an universally brewed comfort food like a temporary frame for a coffin? When it is a bier.
+When is a temporary frame for a coffin like an universally brewed comfort food? When it is a beer.
+When is an indian thorn tree like a Babylonian god? When it is a Bel.
+When is a Babylonian god like an indian thorn tree? When it is a bel.
+When is an anchorage like a your method of arrival? When it is a birth.
+When is a your method of arrival like an anchorage? When it is a berth.
+What do you call a superior one who bets? A better bettor.
+When is a past tense of bite like a large cleat for tying up ships? When it is a bitt.
+When is a large cleat for tying up ships like a past tense of bite? When it is a bit.
+When is an alliance like a square object? When it is a block.
+When is a square object like an alliance? When it is a bloc.
+When is a wild pig like a South African of Dutch descent? When it is a Boer.
+When is a South African of Dutch descent like a wild pig? When it is a boar.
+What do you call a not interested a plank? A bored board.
+When is a lodger who gets meals, too like a perimeter? When it is a border.
+When is a perimeter like a lodger who gets meals, too? When it is a boarder.
+What do you call a more courageous large rock? A bolder boulder.
+When is a trunk like a round seed pod? When it is a boll.
+When is a round seed pod like a trunk? When it is a bole.
+When is a disparaging sounds from fans like a whiskey? When it is a booze.
+When is a whiskey like a disparaging sounds from fans? When it is a boos.
+When is a township like a dig into the ground? When it is a burrow.
+When is a dig into the ground like a township? When it is a borough.
+When is a tree branch like a front of a ship; respectful bend? When it is a bow.
+When is a front of a ship; respectful bend like a tree branch? When it is a bough.
+What do you call a well-groomed brassiere? A braw bra.
+When is a to break through like a the back part? When it is a breech.
+When is a the back part like a to break through? When it is a breach.
+What do you call a past tense of breed a loaf? A bred bread.
+What do you call a pertaining to brides horse's headgear? A bridal bridle.
+When is a meat sandwich like a merchant? When it is a burgher.
+When is a merchant like a meat sandwich? When it is a burger.
+When is a large multi-passenger vehicle like a kiss? When it is a buss.
+When is a kiss like a large multi-passenger vehicle? When it is a bus.
+When is an one who purchases like a cow barn? When it is a byre.
+When is a cow barn like an one who purchases? When it is a buyer.
+When is a hidden storage like a legal tender? When it is a cash.
+When is a legal tender like a hidden storage? When it is a cache.
+When is a chart of days like a paper press? When it is a calender.
+When is a paper press like a chart of days? When it is a calendar.
+When is an one who calls like a my cat has collar ID? When it is a collar.
+When is a my cat has collar ID like an one who calls? When it is a caller.
+When is a big gun like a body of law? When it is a canon.
+When is a body of law like a big gun? When it is a cannon.
+When is a moderate gallop like a singer? When it is a cantor.
+When is a singer like a moderate gallop? When it is a canter.
+When is an unit of weight for precious stones, equal to 200 milligrams like a proofreader's insertion mark? When it is a caret.
+When is a proofreader's insertion mark like an unit of weight for precious stones, equal to 200 milligrams? When it is a carat.
+When is a Christmas song like a study enclosure? When it is a carrel.
+When is a study enclosure like a Christmas song? When it is a carol.
+When is a bone of the carpus like a pistil? When it is a carpel.
+When is a pistil like a bone of the carpus? When it is a carpal.
+When is an one who throws like a beaver's smelly gland? When it is a castor.
+When is a beaver's smelly gland like an one who throws? When it is a caster.
+When is a generative force like a sounds of crows? When it is a caws.
+When is a sounds of crows like a generative force? When it is a cause.
+When is a low island like an opens locks? When it is a key.
+When is an opens locks like a low island? When it is a cay.
+When is an evergreen tree like an one who broadcasts seeds? When it is a seeder.
+When is an one who broadcasts seeds like an evergreen tree? When it is a cedar.
+When is an under a house like an one who sells? When it is a seller.
+When is an one who sells like an under a house? When it is a cellar.
+When is an incense dish like a bad people who fear knowledge? When it is a censor.
+When is a bad people who fear knowledge like an incense dish? When it is a censer.
+When is a numbering like a faculties? When it is a senses.
+When is a faculties like a numbering? When it is a census.
+When is an one hundredth of a dollar like an aroma? When it is a scent.
+When is an aroma like an one hundredth of a dollar? When it is a cent.
+When is a hundredths of a dollar like a many things to smell? When it is a scents.
+When is a many things to smell like a hundredths of a dollar? When it is a cents.
+What do you call a numbers in sequence grains? A serial cereal.
+When is a giving up like a group sitting? When it is a session.
+When is a group sitting like a giving up? When it is a cession.
+When is a calcareous earthy substance like a wedge to keep wheels from rolling? When it is a chock.
+When is a wedge to keep wheels from rolling like a calcareous earthy substance? When it is a chalk.
+When is a happenstance like a more than one litany? When it is a chants.
+When is a more than one litany like a happenstance? When it is a chance.
+When is a church singers like a the twentieth part of a ream of paper? When it is a quire.
+When is a the twentieth part of a ream of paper like a church singers? When it is a choir.
+When is a yellow bile like an around your neck? When it is a collar.
+When is an around your neck like a yellow bile? When it is a choler.
+What do you call a by a chorus marine polyp skeleton? A choral coral.
+When is a choir like a pen for horses? When it is a corral.
+When is a pen for horses like a choir? When it is a chorale.
+When is a three tones in harmony like a very light rope? When it is a cord.
+When is a very light rope like a three tones in harmony? When it is a chord.
+When is a sheet cringle on a sail like a hint? When it is a clue.
+When is a hint like a sheet cringle on a sail? When it is a clew.
+When is a ticking noise like an exclusive group? When it is a clique.
+When is an exclusive group like a ticking noise? When it is a click.
+When is a black mineral like a plants in the crucifer family? When it is a cole.
+When is a plants in the crucifer family like a black mineral? When it is a coal.
+What do you call a rough path of travel? A coarse course.
+When is a wear it for warmth like a small animal shed? When it is a cote.
+When is a small animal shed like a wear it for warmth? When it is a coat.
+When is a more than one male bird like a coxswain? When it is a cox.
+When is a coxswain like a more than one male bird? When it is a cocks.
+When is a money like a corner stone? When it is a quoin.
+When is a corner stone like a money? When it is a coin.
+When is a military officer like a seed? When it is a kernel.
+When is a seed like a military officer? When it is a colonel.
+When is an allotment like an encomium? When it is a compliment.
+When is an encomium like an allotment? When it is a complement.
+When is a police officers like a small wood? When it is a copse.
+When is a small wood like a police officers? When it is a cops.
+When is an inner part like a body? When it is a corps.
+When is a body like an inner part? When it is a core.
+When is a group of leaders like an advisor? When it is a counsel.
+When is an advisor like a group of leaders? When it is a council.
+When is a manual occupation like a strong paper made from wood pulp? When it is a kraft.
+When is a strong paper made from wood pulp like a manual occupation? When it is a craft.
+What do you call a merciless embroidery yarn? A cruel crewel.
+What do you call an of the present small berry? A current currant.
+When is a young swan like an authenticating seal? When it is a signet.
+When is an authenticating seal like a young swan? When it is a cygnet.
+When is a percussive brass dish like a representation? When it is a symbol.
+When is a representation like a percussive brass dish? When it is a cymbal.
+What do you call a beloved Bambi? A dear deer.
+What do you call a desperate one who dyes? A dire dyer.
+What do you call a two things a fight between two over honor? A dual duel.
+When is a narrative poem or story like a noteworthy period in history? When it is an epoch.
+When is a noteworthy period in history like a narrative poem or story? When it is an epic.
+When is a men unable to serve all of humanity like an operating system unable to serve all of humanity? When it is an Unix.
+When is an operating system unable to serve all of humanity like a men unable to serve all of humanity? When it is an eunuchs.
+When is a female sheep like a type of tree? When it is a yew.
+When is a type of tree like a female sheep? When it is an ewe.
+When is a small hole for laces like a small island? When it is an islet.
+When is a small island like a small hole for laces? When it is an eyelet.
+When is an objective things like an obsolete, but widespread, image transmission technology? When it is a fax.
+When is an obsolete, but widespread, image transmission technology like an objective things? When it is a facts.
+What do you call a pass out a weak, misdirected attack to confuse the enemy? A faint feint.
+What do you call an even-handed payment? A fair fare.
+When is an imaginary magic person like a river-crossing boat? When it is a ferry.
+When is a river-crossing boat like an imaginary magic person? When it is a fairy.
+What do you call a fake enemy? A faux foe.
+When is an accomplishment like a look down? When it is a feet.
+When is a look down like an accomplishment? When it is a feat.
+When is a salt containing iron and oxygen like a domesticated polecat? When it is a ferret.
+When is a domesticated polecat like a salt containing iron and oxygen? When it is a ferrate.
+When is a keep the bad stuff from passing through like a love potion? When it is a philter.
+When is a love potion like a keep the bad stuff from passing through? When it is a filter.
+When is an evergreen tree like an animal hair? When it is a fur.
+When is an animal hair like an evergreen tree? When it is a fir.
+When is an one who fishes like a crack? When it is a fissure.
+When is a crack like an one who fishes? When it is a fisher.
+When is a verve like a to spread? When it is a flare.
+When is a to spread like a verve? When it is a flair.
+When is a more than one group of birds like a scented plant? When it is a phlox.
+When is a scented plant like a more than one group of birds? When it is a flocks.
+When is a powdered grain like a bloom? When it is a flower.
+When is a bloom like a powdered grain? When it is a flour.
+When is a fortification like a person's strong point? When it is a forte.
+When is a person's strong point like a fortification? When it is a fort.
+What do you call a grossly offensive to the senses domestic hen or rooster? A foul fowl.
+When is a monk like a small chicken? When it is a fryer.
+When is a small chicken like a monk? When it is a friar.
+When is a barbed spear like a mistake? When it is a gaffe.
+When is a mistake like a barbed spear? When it is a gaff.
+When is a pledge or security deposit like an instrument for measuring? When it is a gauge.
+When is an instrument for measuring like a pledge or security deposit? When it is a gage.
+When is a manner of walking or running like a fence door? When it is a gate.
+When is a fence door like a manner of walking or running? When it is a gait.
+When is a horse's fastest gait like a round dance? When it is a galop.
+When is a round dance like a horse's fastest gait? When it is a gallop.
+When is a chromosome like a cotton twill? When it is a jean.
+When is a cotton twill like a chromosome? When it is a gene.
+What do you call a gold-plated culpable? A gilt guilt.
+When is an alcoholic beverage like a plural of jinni, a Muslim spirit or demon? When it is a jinn.
+When is a plural of jinni, a Muslim spirit or demon like an alcoholic beverage? When it is a gin.
+What do you call a pleasant coarse-grained metamorphic rock of feldspar, quartz and mica? A nice gneiss.
+When is a several antelope like a timely information? When it is a news.
+When is a timely information like a several antelope? When it is a gnus.
+When is a large ape like an irregular soldier? When it is a guerrilla.
+When is an irregular soldier like a large ape? When it is a gorilla.
+When is a to sear cook like an iron gate or door? When it is a grille.
+When is an iron gate or door like a to sear cook? When it is a grill.
+When is an appearance like a Garrison Keillor's obsession? When it is a guys.
+When is a Garrison Keillor's obsession like an appearance? When it is a guise.
+When is a small, eel-shaped marine fish; butterfish like an upper part of sides of a boat? When it is a gunwale.
+When is an upper part of sides of a boat like a small, eel-shaped marine fish; butterfish? When it is a gunnel.
+What do you call a robust health frozen rain? A hale hail.
+When is a grows from your head like a rabbit? When it is a hare.
+When is a rabbit like a grows from your head? When it is a hair.
+When is a rope bed like a low, rounded hill? When it is a hummock.
+When is a low, rounded hill like a rope bed? When it is a hammock.
+When is a garage for airplanes like a from which things hang? When it is a hanger.
+When is a from which things hang like a garage for airplanes? When it is a hangar.
+When is a stag like a blood pump? When it is a heart.
+When is a blood pump like a stag? When it is a hart.
+When is a more than one type of hay like an atmospheric obscuration due to water or dust? When it is a haze.
+When is an atmospheric obscuration due to water or dust like a more than one type of hay? When it is a hays.
+When is a narcotic like a female hero? When it is a heroine.
+When is a female hero like a narcotic? When it is a heroin.
+What do you call a white frost a prostitute? A hoar whore.
+When is a great stash like a great many people? When it is a horde.
+When is a great many people like a great stash? When it is a hoard.
+What do you call a rough voice equine? A hoarse horse.
+When is a more than one garden weeding tool like a tube for watering garden weeds? When it is a hose.
+When is a tube for watering garden weeds like a more than one garden weeding tool? When it is a hoes.
+What do you call an entirety round opening? A whole hole.
+What do you call an unfriendly inexpensive lodging for travelers? A hostile hostel.
+What do you call a funny funny bone? A humorous humerus.
+When is a state without guilt like a more than one innocent? When it is an innocents.
+When is a more than one innocent like a state without guilt? When it is an innocence.
+When is a precious stone like an unit of energy measure? When it is a joule.
+When is an unit of energy measure like a precious stone? When it is a jewel.
+When is a chivalrous man like a darkness? When it is a night.
+When is a darkness like a chivalrous man? When it is a knight.
+When is a handle like a rich person? When it is a nob.
+When is a rich person like a handle? When it is a knob.
+When is a fastening in cord like a nothing? When it is a naught.
+When is a nothing like a fastening in cord? When it is a knot.
+What do you call a loose discipline does not have? A lax lacks.
+When is a meadow like a downwind? When it is a lee.
+When is a downwind like a meadow? When it is a lea.
+When is a tells falsehoods like a stringed instrument? When it is a lyre.
+When is a stringed instrument like a tells falsehoods? When it is a liar.
+When is an instead like a British toilet? When it is a loo.
+When is a British toilet like an instead? When it is a lieu.
+When is a removing weight or darkness like a static electricity from the sky? When it is a lightning.
+When is a static electricity from the sky like a removing weight or darkness? When it is a lightening.
+When is a cargo like a mineral vein? When it is a lode.
+When is a mineral vein like a cargo? When it is a load.
+What do you call a by itself allow to borrow? A lone loan.
+When is a lake like a security device? When it is a lock.
+When is a security device like a lake? When it is a loch.
+When is a more than one lake like a more than one security device? When it is a locks.
+When is a more than one security device like a more than one lake? When it is a lochs.
+When is a water fowl like a crescent shape? When it is a lune.
+When is a crescent shape like a water fowl? When it is a loon.
+When is a circular pattern like a jeweler's monocular magnifier? When it is a loupe.
+When is a jeweler's monocular magnifier like a circular pattern? When it is a loop.
+When is an ill-gotten gains like a stringed instrument? When it is a lute.
+When is a stringed instrument like an ill-gotten gains? When it is a loot.
+What do you call an accomplished young woman? A made maid.
+What do you call a masculine person postal delivery? A male mail.
+What do you call a primary back hair? A main mane.
+When is a method like a lord's house? When it is a manor.
+When is a lord's house like a method? When it is a manner.
+When is a coarse brandy like a sign? When it is a mark.
+When is a sign like a coarse brandy? When it is a marc.
+When is a rooflike projection over a theatre entrance like a nobleman ranking between a duke and a count? When it is a marquis.
+When is a nobleman ranking between a duke and a count like a rooflike projection over a theatre entrance? When it is a marquee.
+What do you call a warlike to gather? A martial marshal.
+When is a ductile element like a moxie? When it is a mettle.
+When is a moxie like a ductile element? When it is a metal.
+What do you call a small one who digs? A minor miner.
+When is a hymn book like a projectile? When it is a missile.
+When is a projectile like a hymn book? When it is a missal.
+When is a water around a castle like a speck? When it is a mote.
+When is a speck like a water around a castle? When it is a moat.
+When is a large elk like a dessert of whipped cream and eggs? When it is a mousse.
+When is a dessert of whipped cream and eggs like a large elk? When it is a moose.
+What do you call a social imperative a mushroom? A moral morel.
+When is an AM like a remembering the dead? When it is a mourning.
+When is a remembering the dead like an AM? When it is a morning.
+When is a fibrous, contracting tissue like a bivalve mollusc? When it is a mussel.
+When is a bivalve mollusc like a fibrous, contracting tissue? When it is a muscle.
+When is a more than one muscle like a more than one mussel? When it is a mussels.
+When is a more than one mussel like a more than one muscle? When it is a muscles.
+What do you call a pertaining to ships and the sea pertaining to the belly button? A naval navel.
+When is a votes against like a horse vocalizes? When it is a neighs.
+When is a horse vocalizes like a votes against? When it is a nays.
+When is a the lowest tide like a turnip? When it is a neep.
+When is a turnip like a the lowest tide? When it is a neap.
+When is a decree like an artillery? When it is an ordnance.
+When is an artillery like a decree? When it is an ordinance.
+What do you call a light colored bucket? A pale pail.
+When is an it hurts like a single panel of glass? When it is a pane.
+When is a single panel of glass like an it hurts? When it is a pain.
+When is a taste like a platform for transporting goods; bed? When it is a pallet.
+When is a platform for transporting goods; bed like a taste? When it is a palate.
+When is a being willing to wait like a being willing to wait? When it is a patients.
+When is a being willing to wait like a being willing to wait? When it is a patience.
+When is a to hesitate like a cat transportation? When it is a paws.
+When is a cat transportation like a to hesitate? When it is a pause.
+When is a what hippies want like a what hippies want? When it is a piece.
+When is a what hippies want like a what hippies want? When it is a peace.
+What do you call a to edge with a chain of small loops round, luminescent gem from an oyster? A purl pearl.
+When is a something of value made from an irritant like a something of value made from an irritant? When it is a Perl.
+When is a something of value made from an irritant like a something of value made from an irritant? When it is a pearl.
+When is a 3.1416 like a good eating? When it is a pie.
+When is a good eating like a 3.1416? When it is a pi.
+What do you call a physiological type with thick neck, large abdomen and short limbs outdoor meal? A pyknic picnic.
+When is a seed-bearing organ of a flower like a hand gun? When it is a pistol.
+When is a hand gun like a seed-bearing organ of a flower? When it is a pistil.
+When is a location like a flounder? When it is a plaice.
+When is a flounder like a location? When it is a place.
+What do you call a not fancy a surface? A plain plane.
+When is a braid like a dish? When it is a plate.
+When is a dish like a braid? When it is a plait.
+When is a person from Poland like a big stick? When it is a pole.
+When is a big stick like a person from Poland? When it is a Pole.
+When is a the dealer's opponent in two-handed card games like a small horse? When it is a pony.
+When is a small horse like a the dealer's opponent in two-handed card games? When it is a pone.
+What do you call a no money careful study; microscopic hole? A poor pore.
+When is a disparaging term for Catholics like a miscellaneous collection? When it is a potpourri.
+When is a miscellaneous collection like a disparaging term for Catholics? When it is a popery.
+When is a priority like an established course of action? When it is a precedents.
+When is an established course of action like a priority? When it is a precedence.
+What do you call a head of school causative force? A principal principle.
+When is a money earned like a seer? When it is a prophet.
+When is a seer like a money earned? When it is a profit.
+When is a multiple experts like an ordinary language? When it is a prose.
+When is an ordinary language like a multiple experts? When it is a pros.
+When is a several fourths-of-gallons like a crystalline rock? When it is a quartz.
+When is a crystalline rock like a several fourths-of-gallons? When it is a quarts.
+When is a small, round fruit like a multiple quintuplets? When it is a quints.
+When is a multiple quintuplets like a small, round fruit? When it is a quince.
+When is a groove cut in a board like a small mammal? When it is a rabbit.
+When is a small mammal like a groove cut in a board? When it is a rabbet.
+When is a shelf like a wreckage? When it is a wrack.
+When is a wreckage like a shelf? When it is a rack.
+When is a what you are doing now like a small semicylindrical moulding or ornamentation? When it is a reeding.
+When is a small semicylindrical moulding or ornamentation like a what you are doing now? When it is a reading.
+What do you call an authentic armature for winding? A real reel.
+When is a general survey or assessment like a series of theatrical sketches or songs? When it is a revue.
+When is a series of theatrical sketches or songs like a general survey or assessment? When it is a review.
+When is a watery discharge of mucous like a partitioned space? When it is a room.
+When is a partitioned space like a watery discharge of mucous? When it is a rheum.
+What do you call a having a watery discharge of mucous colloquialism for "roommate"? A rheumy roomie.
+When is a seventeenth letter of Greek alphabet like a fish eggs? When it is a roe.
+When is a fish eggs like a seventeenth letter of Greek alphabet? When it is a rho.
+When is a constant compass direction like a liquor distilled from sugar cane? When it is a rum.
+When is a liquor distilled from sugar cane like a constant compass direction? When it is a rhumb.
+When is a verse with regular recurrence of sounds like a frost? When it is a rime.
+When is a frost like a verse with regular recurrence of sounds? When it is a rhyme.
+When is an one who rigs like a discipline? When it is a rigor.
+When is a discipline like an one who rigs? When it is a rigger.
+What do you call a correct ritual? A right rite.
+What do you call a coarse a cross? A rude rood.
+When is a tenant like a gossip? When it is a rumor.
+When is a gossip like a tenant? When it is a roomer.
+When is a subterranean part of a plant like a path of travel? When it is a route.
+When is a path of travel like a subterranean part of a plant? When it is a root.
+When is a pretty flower like a linear arrangement? When it is a rows.
+When is a linear arrangement like a pretty flower? When it is a rose.
+What do you call a coarse pleated collar? A rough ruff.
+When is a to force out like a path of travel? When it is a route.
+When is a path of travel like a to force out? When it is a rout.
+What do you call a twisted grain? A wry rye.
+When is a bags like a short for saxophone? When it is a sax.
+When is a short for saxophone like a bags? When it is a sacks.
+When is a wind powered water travel like a the act of selling? When it is a sale.
+When is a the act of selling like a wind powered water travel? When it is a sail.
+What do you call a mentally normal fishing net? A sane seine.
+When is a rowing motion like a head bone? When it is a skull.
+When is a head bone like a rowing motion? When it is a scull.
+When is a sailors like a male discharge? When it is a semen.
+When is a male discharge like a sailors? When it is a seamen.
+When is a religious factions like an if you have to ask, you're too young? When it is a sex.
+When is an if you have to ask, you're too young like a religious factions? When it is a sects.
+When is a slave like a breaking waves? When it is a surf.
+When is a breaking waves like a slave? When it is a serf.
+When is a strong twilled fabric like a forceful push? When it is a surge.
+When is a forceful push like a strong twilled fabric? When it is a serge.
+When is a pulley like a knife? When it is a shiv.
+When is a knife like a pulley? When it is a sheave.
+When is a displayed board bearing information like a reciprocal of the cosecant? When it is a sine.
+When is a reciprocal of the cosecant like a displayed board bearing information? When it is a sign.
+What do you call a tribe of native Americans French coin worth five centimes? A Sioux sou.
+What do you call a not much cunning skill? A slight sleight.
+What do you call a not fast blackthorn berries? A slow sloe.
+What do you call a lacking a soul comfort? A soulless solace.
+When is an only like an immortal part of a person? When it is a soul.
+When is an immortal part of a person like an only? When it is a sole.
+When is a male child like a star? When it is a sun.
+When is a star like a male child? When it is a son.
+What do you call a lit by the sun diminutive for male child? A sunny sonny.
+When is a black residue of burning like a clothes? When it is a suit.
+When is a clothes like a black residue of burning? When it is a soot.
+When is a trail of an animal like a single cell reproductive body? When it is a spore.
+When is a single cell reproductive body like a trail of an animal? When it is a spoor.
+When is a wooden pole like a slice of meat? When it is a steak.
+When is a slice of meat like a wooden pole? When it is a stake.
+What do you call a not moving writing paper? A stationary stationery.
+When is a measure taken like a level, grassy, unforested plain? When it is a steppe.
+When is a level, grassy, unforested plain like a measure taken? When it is a step.
+When is a narrow passage like a mode? When it is a style.
+When is a mode like a narrow passage? When it is a stile.
+What do you call a not crooked narrow waterway? A straight strait.
+When is a relief like an one who sucks? When it is a sucker.
+When is an one who sucks like a relief? When it is a succor.
+What do you call a sugary ensemble? A sweet suite.
+When is an ice cream with syrup on it like a first day of the week? When it is a Sunday.
+When is a first day of the week like an ice cream with syrup on it? When it is a sundae.
+When is a small nails like a governmental tithe? When it is a tax.
+When is a governmental tithe like a small nails? When it is a tacks.
+When is a spinal appendage like a story? When it is a tale.
+When is a story like a spinal appendage? When it is a tail.
+When is a wedge-shaped like a hoglike, Malaysian mammal? When it is a tapir.
+When is a hoglike, Malaysian mammal like a wedge-shaped? When it is a taper.
+When is a herbal infusion like a golfball prop? When it is a tee.
+When is a golfball prop like a herbal infusion? When it is a tea.
+When is an English slang for a ten pound note like a tendency? When it is a tenor.
+When is a tendency like an English slang for a ten pound note? When it is a tenner.
+What do you call a nervous more than one temporary shelter? A tense tents.
+When is a shorebird like an alloy of lead and tin? When it is a terne.
+When is an alloy of lead and tin like a shorebird? When it is a tern.
+When is a herb like a natures way of keeping everything from happening at once? When it is a time.
+When is a natures way of keeping everything from happening at once like a herb? When it is a thyme.
+When is a twitch like a small noise; parasitic bug? When it is a tick.
+When is a small noise; parasitic bug like a twitch? When it is a tic.
+When is a the sounds of a clock like a more than one twitch? When it is a tics.
+When is a more than one twitch like a the sounds of a clock? When it is a ticks.
+When is a wood for building like a musical quality? When it is a timbre.
+When is a musical quality like a wood for building? When it is a timber.
+When is an alarm like a poison? When it is a toxin.
+When is a poison like an alarm? When it is a tocsin.
+When is a more than one alarm like a more than one poisons? When it is a toxins.
+When is a more than one poisons like a more than one alarm? When it is a tocsins.
+When is a lacquered metalware like a tax or charge? When it is a toll.
+When is a tax or charge like a lacquered metalware? When it is a tole.
+When is a 2000 lbs. like a large cask? When it is a Tun.
+When is a large cask like a 2000 lbs.? When it is a ton.
+When is a cartoon personality like a song? When it is a tune.
+When is a song like a cartoon personality? When it is a toon.
+When is a sweet cake for lawyers like a sweet cake for kids? When it is a torte.
+When is a sweet cake for kids like a sweet cake for lawyers? When it is a tort.
+What do you call a difficult a stratified, porous rock? A tough tuff.
+When is a platter like a three; Bill Gates' nickname? When it is a trey.
+When is a three; Bill Gates' nickname like a platter? When it is a tray.
+When is a private soldier like a staunch colleague? When it is a trouper.
+When is a staunch colleague like a private soldier? When it is a trooper.
+When is a several soldiers like a multiple actors? When it is a troupers.
+When is a multiple actors like a several soldiers? When it is a troopers.
+What do you call a worthless flat piece moving with the air? A vain vane.
+When is a valley like a gauzy fabric? When it is a veil.
+When is a gauzy fabric like a valley? When it is a vale.
+What do you call a despicable narrow glass container? A vile vial.
+When is a bad habit like a bench-mounted clamp? When it is a vise.
+When is a bench-mounted clamp like a bad habit? When it is a vice.
+When is a cry like a welt; corduroy ridge? When it is a wale.
+When is a welt; corduroy ridge like a cry? When it is a wail.
+When is an one who is protected by a guarantee like a guarantee? When it is a warranty.
+When is a guarantee like an one who is protected by a guarantee? When it is a warrantee.
+When is a naval implement of destruction like a revere in a religious manner? When it is a worship.
+When is a revere in a religious manner like a naval implement of destruction? When it is a warship.
+What do you call a cautious light row boat? A wary wherry.
+What do you call a not strong seven days? A weak week.
+When is a skin welt like a what we in Silicon Valley continually reinvent? When it is a wheel.
+When is a what we in Silicon Valley continually reinvent like a skin welt? When it is a weal.
+When is a meteorological conditions like a castrated ram? When it is a wether.
+When is a castrated ram like a meteorological conditions? When it is a weather.
+When is a supporter of American revolution like a false hairpiece? When it is a wig.
+When is a false hairpiece like a supporter of American revolution? When it is a whig.
+When is a during like a craft? When it is a wile.
+When is a craft like a during? When it is a while.
+When is an annoying cry like a fermented grape juice? When it is a wine.
+When is a fermented grape juice like an annoying cry? When it is a whine.
+When is an insignificant amount like a cleverness; sense of humor? When it is a wit.
+When is a cleverness; sense of humor like an insignificant amount? When it is a whit.
+What do you call a least best sausage? A worst wurst.
+When is an oxen harness like a yellow egg center? When it is a yolk.
+When is a yellow egg center like an oxen harness? When it is a yoke.
+When is a more than one harness like an omelet? When it is a yolks.
+When is an omelet like a more than one harness? When it is a yokes.

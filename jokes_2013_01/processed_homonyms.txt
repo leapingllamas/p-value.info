@@ -1,0 +1,705 @@
+a	very short little insignificant English word	determiner	eh	an interrogative utterance	exclamation
+acts	things done	unknown	ax	chopping tool	noun
+ad	short for advertisement	noun	add	short for addition	verb
+adds	performs additions	verb	ads	more than one advertisement	noun
+ade	fruit beverage	unknown	aid	to assist	noun
+aerie	eagle's nest	noun	airy	breezy	adjective
+aero	of aircraft	unknown	arrow	slender, pointed shaft	noun
+affect	to change	verb	effect	result	noun
+ail	sick	verb	ale	beer	noun
+air	stuff we breathe	noun	are	1/100th of a hectare	noun
+aisle	walkway	noun	I'll	contraction of "I will"	contraction
+all	everything	predeterminer	awl	pointed scriber	noun
+allowed	permitted	verb	aloud	spoken	adverb
+altar	raised center of worship	noun	alter	to change	verb
+an	a single instance	adjective	Ann	a woman's name	unknown
+ant	insect	noun	aunt	parent's sister	noun
+ante	preliminary bet	noun	auntie	sister of a parent	unknown
+arc	portion of a circle	noun	ark	vessel	noun
+ascent	the climb	noun	assent	to agree	noun
+ate	past tense of eat	abbreviation	eight	the number base of octal	number (cardinal)
+auger	a drill	noun	augur	foretell	verb
+aught	anything	pronoun	ought	should	verb (modal)
+aural	of hearing	adjective	oral	of the mouth	adjective
+auricle	external part of the ear	noun	oracle	seer	noun
+away	distant	adverb	aweigh	just clear of the bottom	adjective
+awed	in a state of wonder	adjective	odd	not usual	adjective
+aweful	filled with awe	unknown	awful	really bad	adjective
+aye	naval affirmative	exclamation	eye	ocular organ	noun
+bail	bucket handle	noun	bale	bundle of hay	noun
+bailed	pumping water out of a boat	verb	baled	to gather into a bale	verb
+bailee	a person to whom goods are committed for custody or repair	noun	bailey	the outer wall of a castle	noun
+bailer	one who bails (water)	unknown	bailor	a person that entrusts goods to a bailee	noun
+bailing	pumping water out of a boat	verb	baling	wire used to tie bales	verb
+bait	to torment	noun	bate	to lessen	verb
+baited	past tense of bait	verb	bated	past tense of bate	adjective
+baiting	tormenting	verb	bating	lessening	verb
+baize	green felt	noun	bays	one or more enclosed arms of the ocean	noun
+bald	hairless	adjective	balled	carnal knowledge	verb
+ball	playful orb	noun	bawl	to cry	verb
+band	a group	noun	banned	forbidden	verb
+bard	a poet	noun	barred	enclosed by poles	verb
+bare	naked	adjective	bear	wild ursine	verb
+bark	outer sheath of a tree	noun	barque	square-rigged sailing ship	unknown
+baron	minor royalty	noun	barren	unable to bear children	adjective
+Barry	a man's name	adjective	berry	small fruit	noun
+basal	forming the base	adjective	basil	an herb	noun
+base	the bottom support for anything	noun	bass	the lowest musical pitch or range	noun
+based	supported	verb	baste	to swab with liquid during cooking	verb
+bases	what baseball players like to steal	noun	basis	principal constituent of anything	noun
+bask	to warm oneself pleasantly	verb	basque	tightfitting bodice or tunic (or, people of the Pyrenees)	noun
+bat	a blind, flying rodent	noun	batt	a flat pad	noun
+baud	bits per second	noun	bawd	brothel manager	noun
+bay	an enclosed arm of the ocean	noun	bey	a Turkish official	noun
+be	to exist	verb	bee	pollinating buzzer	noun
+beach	where i want to be	noun	beech	a type of tree	noun
+bean	a legume	noun	been	past tense of be	verb
+beat	to hit	verb	beet	edible red root	noun
+beau	male friend	noun	bow	a curve or bend; double-slipped reef knot	noun
+beaut	slang for beauty, beautiful	noun	butte	steep sided hill	noun
+been	past tense of be	verb	bin	a box or container	noun
+beer	universally brewed comfort food	noun	bier	a temporary frame for a coffin	noun
+bel	indian thorn tree	noun	Bel	Babylonian god	noun
+berth	anchorage	noun	birth	your method of arrival	noun
+besot	to get drunk	unknown	besought	past tense of beseech	verb
+better	superior	adjective	bettor	one who bets	noun
+bight	middle of a rope	noun	bite	a mouthful	verb
+billed	has a bill	verb	build	to construct	verb
+bit	past tense of bite	noun	bitt	large cleat for tying up ships	noun
+blew	past tense of blow	verb	blue	color of California sky	adjective
+bloc	an alliance	noun	block	square object	noun
+boar	wild pig	noun	Boer	a South African of Dutch descent	noun
+board	a plank	noun	bored	not interested	adjective
+boarder	lodger who gets meals, too	noun	border	perimeter	noun
+bode	an omen	verb	bowed	curved	verb
+bold	brave	adjective	bowled	knocked over	verb
+bolder	more courageous	adjective	boulder	large rock	noun
+bole	trunk	noun	boll	round seed pod	noun
+boos	disparaging sounds from fans	noun	booze	whiskey	noun
+born	brought into life	adjective	borne	past participle of bear	adjective
+borough	township	noun	burrow	dig into the ground	noun
+bough	tree branch	noun	bow	front of a ship; respectful bend	noun
+bouy	navigational aid	unknown	boy	male child	noun
+bra	brassiere	noun	braw	well-groomed	adjective
+braid	a weave of three strands	noun	brayed	a donkey cried	verb
+braise	cook with oil and water	verb	brays	loud, harsh cry	noun
+brake	stopping device	noun	break	to split apart	verb
+breach	to break through	noun	breech	the back part	noun
+bread	a loaf	noun	bred	past tense of breed	adjective
+brewed	fermented	verb	brood	family	noun
+brews	more than one beer	verb	bruise	a contusion	noun
+bridal	pertaining to brides	adjective	bridle	horse's headgear	noun
+broach	to raise a subject	verb	brooch	an ornament fastened to clothes	noun
+brows	multiple foreheads	noun	browse	grazing	verb
+bundt	type of cake	unknown	bunt	hit a pitch without swinging	verb
+burger	meat sandwich	noun	burgher	merchant	noun
+bus	large multi-passenger vehicle	noun	buss	a kiss	noun
+bussed	kissed	verb	bust	head and shoulders sculpture	noun
+but	excepting	conjunction	butt	the thick end	verb
+buy	to purchase	verb	by	near	preposition
+buyer	one who purchases	noun	byre	a cow barn	noun
+cache	hidden storage	noun	cash	legal tender	noun
+cached	hidden away	verb	cashed	converted to legal tender	verb
+calendar	chart of days	noun	calender	paper press	noun
+call	to summon	verb	caul	amnionic membrane	noun
+caller	one who calls	noun	collar	my cat has collar ID	noun
+can't	contraction of "can not"	contraction	cant	a bevel	noun
+cannon	big gun	noun	canon	body of law	noun
+canter	a moderate gallop	noun	cantor	singer	noun
+canvas	rough cloth	noun	canvass	to examine thoroughly	verb
+capital	most important	noun	capitol	center of government	unknown
+carat	unit of weight for precious stones, equal to 200 milligrams	noun	caret	proofreader's insertion mark	noun
+carol	Christmas song	noun	carrel	study enclosure	noun
+carpal	a bone of the carpus	noun	carpel	a pistil	noun
+cast	to throw	verb	caste	a social class	noun
+caster	one who throws	noun	castor	beaver's smelly gland	noun
+cause	generative force	noun	caws	sounds of crows	noun
+cay	a low island	noun	key	opens locks	noun
+cedar	an evergreen tree	noun	seeder	one who broadcasts seeds	noun
+cede	to give	verb	seed	part of a plant from which a new one grows	noun
+ceding	giving	verb	seeding	planting	verb
+ceiling	top of the room	noun	sealing	to close a package or envelope	verb
+cell	a small room	noun	sell	to exchange for money	verb
+cellar	under a house	noun	seller	one who sells	noun
+censer	incense dish	noun	censor	bad people who fear knowledge	noun
+census	numbering	noun	senses	faculties	noun
+cent	one hundredth of a dollar	noun	scent	an aroma	noun
+cents	hundredths of a dollar	noun	scents	many things to smell	noun
+cere	waxy fleshy covering at the base of the upper beak in some birds	noun	sear	to scorch	verb
+cereal	grains	noun	serial	numbers in sequence	adjective
+Ceres	Roman Goddess of agriculture	unknown	series	a sequence of things	noun
+cession	giving up	noun	session	a group sitting	noun
+chalk	calcareous earthy substance	noun	chock	wedge to keep wheels from rolling	noun
+chance	happenstance	noun	chants	more than one litany	noun
+chard	spinach-like vegetable	noun	charred	burnt	verb
+chased	quickly followed	verb	chaste	virginal	adjective
+check	a tic mark	verb	Czech	from Czechoslovakia	noun
+chews	masticating	verb	choose	to select	verb
+Chile	a South American country	unknown	chili	dried pod of red pepper	noun
+choir	church singers	noun	quire	the twentieth part of a ream of paper	noun
+choler	yellow bile	noun	collar	around your neck	noun
+choral	by a chorus	adjective	coral	marine polyp skeleton	noun
+chorale	a choir	noun	corral	a pen for horses	noun
+chord	three tones in harmony	noun	cord	very light rope	noun
+chute	inclined trough	noun	shoot	to project an object	verb
+cite	to refer to	verb	sight	vision	noun
+cited	referenced	verb	sighted	visually identified	adjective
+cites	past tense of cite	abbreviation	sights	tourist rationale	noun
+clack	a chattering sound	verb	claque	a group hired to applaud, sycophants	noun
+Claus	fat, jolly guy with presents	unknown	clause	contractual unit	noun
+clew	sheet cringle on a sail	noun	clue	a hint	noun
+click	ticking noise	noun	clique	exclusive group	noun
+climb	ascending	verb	clime	climate	noun
+close	to shut	adjective	clothes	garments	noun (plural)
+coal	black mineral	noun	cole	plants in the crucifer family	noun
+coaled	supplied with coal	verb	cold	not supplied with coal	adjective
+coarse	rough	adjective	course	path of travel	noun
+coat	wear it for warmth	noun	cote	small animal shed	noun
+coax	persuade	verb	cokes	more than one soft drink	verb
+cocks	more than one male bird	noun	cox	a coxswain	noun
+coddling	tenderly treating	verb	codling	small, unripe apple	noun
+coffer	a strongbox; decorative, sunken ceiling panels	noun	cougher	one who coughs	unknown
+coin	money	noun	quoin	corner stone	noun
+colonel	military officer	noun	kernel	seed	noun
+complacence	self-satisfaction	unknown	complaisance	willingness to please	unknown
+complacent	self-satified	adjective	complaisant	willing to please	adjective
+complement	allotment	noun	compliment	encomium	noun
+conch	marine mollusk	noun	conk	blow to the head	verb
+coo	a soft murmuring sound	verb	coup	a successful stroke	noun
+copes	gets along with adversity	verb	copse	a stand of trees	noun
+copped	swiped	verb	copt	a native Egyptian to a Roman	noun
+cops	police officers	noun	copse	a small wood	noun
+core	inner part	noun	corps	body	noun
+cosign	to sign in addition	unknown	cosine	sine of the complement	noun
+council	group of leaders	noun	counsel	advisor	noun
+craft	a manual occupation	noun	kraft	a strong paper made from wood pulp	noun
+crater	impact hole	noun	krater	ancient Greek jar	unknown
+Crays	more than one supercomputer	unknown	craze	sensation needed to buy more than one supercomputer	noun
+creak	to squeak	verb	creek	small stream	noun
+crewed	served by a crew	verb	crude	coarse	adjective
+crewel	embroidery yarn	noun	cruel	merciless	adjective
+crews	more than one crew	noun	cruise	a sea journey	verb
+cue	a signal	noun	Kew	home of the famous English gardens	unknown
+currant	small berry	noun	current	of the present	adjective
+curser	one who swears	unknown	cursor	on-screen positional indicator	noun
+cygnet	a young swan	noun	signet	an authenticating seal	noun
+cymbal	percussive brass dish	noun	symbol	a representation	noun
+dam	holds back water	abbreviation	damn	a curse	verb
+dammed	prevented from flowing	verb	damned	cursed	adjective
+darn	to mend	verb	darne	a fish steak	unknown
+days	more than one day	noun	daze	to bewilder	verb
+dear	beloved	adjective	deer	Bambi	noun
+dew	morning condensation	noun	do	to perform	verb
+die	to become dead	verb	dye	coloring agent	noun
+died	passed away	verb	dyed	colored	verb
+dies	passing away	verb	dyes	colors	noun
+dine	to eat	verb	dyne	unit of energy	noun
+dire	desperate	adjective	dyer	one who dyes	noun
+disc	a phonograph record	unknown	disk	a round, plate-shaped object	noun
+discreet	confidential	adjective	discrete	individual	adjective
+discussed	talked about	verb	disgust	sickening	noun
+do	first note of diatonic scale	verb	doe	a female deer	noun
+doc	a physician	abbreviation	dock	where a boat is kept	noun
+does	several female deer	verb	doughs	several uncooked breads	noun
+done	completed	verb	dun	demand money	adjective
+dos	opposite of don'ts	abbreviation	dues	membership payments	noun
+draft	a preliminary written version	noun	draught	a gust of wind; depth of water needed to float a ship	unknown
+dual	two things	adjective	duel	a fight between two over honor	noun
+e'er,	see: air	unknown	earl	British nobleman	noun
+earn	to come to deserve	verb	urn	a jar	noun
+elicit	to draw out	verb	illicit	unlawful	adjective
+elude	to escape from	verb	illude	to deceive	verb
+epic	a narrative poem or story	noun	epoch	a noteworthy period in history	noun
+eunuchs	men unable to serve all of humanity	noun	Unix	operating system unable to serve all of humanity	noun
+ewe	female sheep	noun	yew	a type of tree	noun
+ewes	more than one female sheep	noun	use	to apply	verb
+eyelet	small hole for laces	noun	islet	small island	noun
+facts	objective things	noun	fax	obsolete, but widespread, image transmission technology	noun
+fain	willing	adjective	feign	pretend to be affected	verb
+faint	pass out	adjective	feint	a weak, misdirected attack to confuse the enemy	noun
+fair	even-handed	adjective	fare	payment	noun
+fairing	streamlining	noun	faring	the state of progress	verb
+fairy	imaginary magic person	noun	ferry	river-crossing boat	noun
+faker	a deceiver	unknown	fakir	a Hindu ascetic	noun
+farrow	a litter of pigs	noun	pharoah	Egyptian king	unknown
+faux	fake	adjective	foe	enemy	noun
+fay	a fairy	noun	Faye	a woman's name	unknown
+fays	more than one fairy	noun	faze	to disconcert	verb
+faze	to stun	verb	phase	a part of the sequence	noun
+fazed	stunned	verb	phased	done in sequential parts	verb
+feat	an accomplishment	noun	feet	look down	noun
+ferrate	a salt containing iron and oxygen	noun	ferret	a domesticated polecat	noun
+feted	celebrated	unknown	fetid	stinking	adjective
+few	not many	determiner	phew	expression of relief	exclamation
+file	a folder for holding papers	noun	phial	a small glass bottle	unknown
+fills	plural of fill	verb	fils	one one-thousandth of an Iraqi dinar	noun
+filter	keep the bad stuff from passing through	noun	philter	a love potion	noun
+find	to locate	verb	fined	to have to pay a parking ticket	verb
+finish	to complete	verb	Finnish	from Finland	adjective
+fir	evergreen tree	noun	fur	animal hair	noun
+fisher	one who fishes	noun	fissure	a crack	noun
+flair	verve	noun	flare	to spread	noun
+flea	parasitic insect	noun	flee	to run away	verb
+flecks	many tiny specks	noun	flex	to bend	verb
+flew	past tense of fly	verb	flu	short for influenza	unknown
+Flo	a girl's name	unknown	floe	sheet of floating ice	noun
+flocks	more than one group of birds	noun	phlox	a scented plant	noun
+floes	sheets of floating ice	noun	flows	glides along	verb
+floor	what one walks on	noun	fluor	something that glows	unknown
+flour	powdered grain	noun	flower	a bloom	noun
+for	in place of	preposition	fore	in front	adjective
+forego	to precede	verb	forgo	to abstain from	verb
+foreword	introduction to a book	noun	forward	the facing direction	adverb
+fort	a fortification	noun	forte	a person's strong point	noun
+forth	a direction	adverb	fourth	following the third	number (ordinal)
+foul	grossly offensive to the senses	adjective	fowl	domestic hen or rooster	noun
+frees	releasing	verb	freeze	very cold	verb
+friar	a monk	noun	fryer	small chicken	noun
+gaff	a barbed spear	noun	gaffe	a mistake	noun
+gage	a pledge or security deposit	noun	gauge	instrument for measuring	noun
+gait	a manner of walking or running	noun	gate	fence door	noun
+gaited	describing a walking horse	verb	gated	having a gate	verb
+galley	ship's kitchen	noun	gally	to frighten or terrify	unknown
+gallop	horse's fastest gait	noun	galop	a round dance	noun
+gays	a frisky gathering	noun	gaze	a languid look	verb
+gene	a chromosome	noun	jean	cotton twill	noun
+gild	to coat with gold	verb	gilled	having gills	verb
+gilt	gold-plated	adjective	guilt	culpable	noun
+gin	alcoholic beverage	noun	jinn	plural of jinni, a Muslim spirit or demon	noun
+gnawed	chewed	verb	nod	head tilting	verb
+gneiss	coarse-grained metamorphic rock of feldspar, quartz and mica	noun	nice	pleasant	adjective
+gnu	African antelope	noun	knew	past tense of know	verb
+gnus	several antelope	noun	news	timely information	noun
+gored	pierced by an animal's horns	verb	gourd	fleshy fruit with hard skin	noun
+gorilla	large ape	noun	guerrilla	irregular soldier	noun
+grade	a slope	noun	grayed	turned gray	verb
+graft	to attach	noun	graphed	plotted	verb
+grate	a lattice	verb	great	extremely good	adjective
+grays	more than one shade of black	noun	graze	to eat grass while wandering	verb
+grease	lubricant	noun	Greece	Mediterranean country	unknown
+greave	leg armor	noun	grieve	to mourn	verb
+greaves	more than one greave	noun	grieves	to mourn	verb
+grill	to sear cook	noun	grille	an iron gate or door	noun
+groan	reaction to hearing a pun	verb	grown	has gotten larger	verb
+guessed	past tense of guess	verb	guest	a visitor	noun
+guide	one who shows the way	noun	guyed	secured with a rope or wire	verb
+guise	appearance	noun	guys	Garrison Keillor's obsession	noun
+gunnel	small, eel-shaped marine fish; butterfish	noun	gunwale	upper part of sides of a boat	noun
+gym	sports room	noun	Jim	nickname for James	unknown
+hail	frozen rain	noun	hale	robust health	adjective
+hair	grows from your head	noun	hare	rabbit	noun
+hairy	having much hair	adjective	Harry	a man's name	verb
+hall	a large room	noun	haul	to carry	verb
+halve	break in two	verb	have	to hold in possession	verb
+halves	more than one half	noun	haves	those who possess	unknown
+hammock	rope bed	noun	hummock	low, rounded hill	noun
+hangar	garage for airplanes	noun	hanger	from which things hang	noun
+Harold	a man's name	unknown	herald	a horn blower	noun
+hart	a stag	noun	heart	blood pump	noun
+haut	high, as in "haut couture"	unknown	ho	an expression of admiration or surprise	noun
+hay	grass	noun	hey	a shout	exclamation
+hays	more than one type of hay	noun	haze	atmospheric obscuration due to water or dust	noun
+he'd	contraction of "he would"	contraction	heed	to pay attention	verb
+he'll	contraction of "he will"	contraction	heal	to make well	verb
+he'll	contraction of "he will"	contraction	hill	smaller than a mountain	noun
+heal	to cure of disease	verb	heel	hind part of foot	noun
+hear	to listen	verb	here	at this location	adverb
+heard	listened to	verb	herd	a group of ruminants	noun
+heigh	an exclamation	exclamation	hi	a greeting	exclamation
+heroin	narcotic	noun	heroine	female hero	noun
+hew	to chop	verb	hue	a color	noun
+hide	animal skin	verb	hied	hurried	verb
+higher	farther up	adjective	hire	to employ	verb
+him	pronoun	pronoun	hymn	religious song	noun
+hoar	a white frost	adjective	whore	a prostitute	noun
+hoard	a great stash	noun	horde	a great many people	noun
+hoarse	rough voice	adjective	horse	equine	noun
+hoes	more than one garden weeding tool	noun	hose	tube for watering garden weeds	noun
+hold	to grip	verb	holed	full of holes	verb
+hole	round opening	noun	whole	entirety	adjective
+holey	perforated	unknown	holy	with religious significance	adjective
+hostel	inexpensive lodging for travelers	noun	hostile	unfriendly	adjective
+hour	sixty minutes	noun	our	possessed by us	determiner (possessive)
+hours	time measurement	noun	ours	belonging to us	pronoun (possessive)
+humerus	funny bone	noun	humorous	funny	adjective
+I'll,	see: aisle	unknown	idle	not working	adjective
+in	expressing inclusion	preposition	inn	hotel	noun
+inc	short for incorporated	unknown	ink	writing fluid	noun
+incite	to provoke	verb	insight	understanding	noun
+innocence	a state without guilt	noun	innocents	more than one innocent	noun
+inns	hotels	noun	ins	those on the inside	abbreviation
+it's	contraction of "it is"	contraction	its	possessive pronoun	determiner (possessive)
+jam	to smash together	verb	jamb	side post of a doorway	noun
+jewel	precious stone	noun	joule	unit of energy measure	noun
+juggler	one who juggles	unknown	jugular	artery to head	adjective
+knap	crest of a hill; break with a hammer	noun	nap	a short sleep	verb
+knead	working bread dough	verb	need	must have	verb
+knickers	woman's underwear	noun (plural)	nickers	those who nick	verb
+knight	chivalrous man	noun	night	darkness	noun
+knit	interlocking loops of yarn	verb	nit	louse egg	noun
+knits	verb form of knit	verb	nits	louse eggs	noun
+knob	handle	noun	nob	rich person	noun
+knock	to rap	verb	nock	a notch in an arrow	noun
+knot	fastening in cord	noun	naught	nothing	noun
+know	to possess knowledge	verb	no	negation	determiner
+knows	"Only the shadow knows..."	verb	noes	"The noes have it..."	noun
+lacks	does not have	noun	lax	loose discipline	adjective
+lain	past tense of lay	verb	lane	narrow road	noun
+lam	headlong flight	verb	lamb	baby sheep	noun
+lay	to recline	verb	lei	a flower necklace	noun
+lays	to recline	verb	laze	to recline with extreme prejudice	verb
+lea	a meadow	noun	lee	downwind	noun
+leach	washing action	verb	leech	sucking parasite	noun
+lead	heavy metal	verb	led	guided	abbreviation
+leak	accidental escape of liquid	verb	leek	variety of onion	noun
+lean	angle of repose	verb	lien	a claim on property	noun
+leas	more than one meadow	noun	lees	the dregs	noun (plural)
+leased	rented	verb	least	the minimum	determiner
+lends	allows to borrow	verb	lens	convex glass	noun
+lessen	to reduce	verb	lesson	a segment of learning	noun
+liar	tells falsehoods	noun	lyre	stringed instrument	noun
+lichen	a fungus among us	noun	liken	to compare	verb
+lie	an untruth	verb	lye	a caustic	noun
+lieu	instead	noun	loo	British toilet	noun
+lightening	removing weight or darkness	noun	lightning	static electricity from the sky	noun
+limb	tree branch	noun	limn	delineate	verb
+limbs	arms or legs	noun	limns	to illuminate, as in a manuscript	verb
+links	pieces of chain	noun (plural)	lynx	feral cat	noun
+literal	taking words in their primary sense	adjective	littoral	having to do with the shore	adjective
+lo	interjection	exclamation	low	not high	adjective
+load	cargo	noun	lode	mineral vein	noun
+load	what is carried	noun	lowed	a cow mooed	verb
+loan	allow to borrow	noun	lone	by itself	adjective
+loch	a lake	noun	lock	a security device	noun
+lochs	more than one lake	noun	locks	more than one security device	noun
+loon	a water fowl	noun	lune	a crescent shape	noun
+loop	a circular pattern	noun	loupe	a jeweler's monocular magnifier	noun
+loos	several British toilets	unknown	lose	fail to win	verb
+loot	ill-gotten gains	noun	lute	stringed instrument	noun
+lumbar	lower back	adjective	lumber	dimensional wood	verb
+mach	speed of sound	unknown	mock	parody	verb
+made	accomplished	adjective	maid	young woman	noun
+mail	postal delivery	noun	male	masculine person	adjective
+main	primary	adjective	mane	back hair	noun
+maize	corn	unknown	maze	puzzle	noun
+mall	hallway	noun	maul	shred	verb
+manner	method	noun	manor	lord's house	noun
+marc	coarse brandy	noun	mark	a sign	noun
+marquee	a rooflike projection over a theatre entrance	noun	marquis	a nobleman ranking between a duke and a count	noun
+marry	to join in matrimony	verb	merry	happy	adjective
+marshal	to gather	noun	martial	warlike	adjective
+massed	grouped together	verb	mast	sail pole	noun
+Mays	several spring months	unknown	maze	a labyrinth	noun
+me	myself	pronoun	mi	musical note	noun
+mean	average	verb	mein	manner	unknown
+meat	animal flesh	noun	meet	to connect	verb
+medal	an award	noun	meddle	to interfere	verb
+men's	owned by males	unknown	mends	to repair	verb
+metal	ductile element	noun	mettle	moxie	noun
+mewl	to whimper	verb	mule	offspring of female horse and male donkey	noun
+mews	stables	noun	muse	creative inspiration	verb
+might	possible	verb (modal)	mite	tiny creature	noun
+mince	chop finely	verb	mints	aromatic candies	noun
+mind	thinking unit	noun	mined	looked for ore	verb
+miner	one who digs	noun	minor	small	adjective
+missal	hymn book	noun	missile	projectile	noun
+missed	not hit	verb	mist	fog	noun
+misses	young ladies	verb	Mrs.	married lady	noun
+moan	to groan	noun	mown	the lawn is freshly cut	verb
+moat	water around a castle	noun	mote	a speck	noun
+mode	condition	noun	mowed	a lawn in a well-trimmed condition	verb
+mood	emotional state	noun	mooed	what the loquacious cow did	verb
+moor	swampy coastland; to anchor	noun	more	additional	determiner
+moose	a large elk	noun	mousse	dessert of whipped cream and eggs	noun
+moral	a social imperative	adjective	morel	a mushroom	noun
+morn	AM	unknown	mourn	remember the dead	verb
+morning	AM	noun	mourning	remembering the dead	noun
+muscle	fibrous, contracting tissue	noun	mussel	a bivalve mollusc	noun
+muscles	more than one muscle	noun	mussels	more than one mussel	noun
+mussed	made messy	verb	must	required	verb (modal)
+mustard	spicy yellow sauce	noun	mustered	assembled for roll call	verb
+naval	pertaining to ships and the sea	adjective	navel	pertaining to the belly button	noun
+nay	no	adverb	neigh	a horse's cry	noun
+nays	votes against	noun	neighs	a horse vocalizes	noun
+neap	the lowest tide	noun	neep	a turnip	noun
+none	not one	pronoun	nun	woman of God	noun
+oar	boat propulsion system	noun	or	boolean deathtrap	conjunction
+oh	interjection	exclamation	owe	to be indebted	verb
+ohs	more than one letter "O"	unknown	owes	in debt	verb
+one	singularity	number (cardinal)	won	victorious	noun
+oohs	as in "oohs and ahs"	noun	ooze	slime	verb
+ordinance	a decree	noun	ordnance	artillery	noun
+overdo	carried to excess	verb	overdue	past time for payment	adjective
+paced	measured by footsteps	verb	paste	thick glue	noun
+packed	placed in a container	verb	pact	agreement	noun
+pail	bucket	noun	pale	light colored	adjective
+pain	it hurts	noun	pane	a single panel of glass	noun
+pair	a set of two	noun	pare	cutting down	verb
+palate	taste	noun	pallet	a platform for transporting goods; bed	noun
+pall	to become wearisome	noun	Paul	barefoot Beatle	unknown
+passed	approved; moved on	verb	past	before now	adjective
+patience	being willing to wait	noun	patients	being willing to wait	noun
+pause	to hesitate	noun	paws	cat transportation	noun
+pea	round, green legume	noun	pee	piss	verb
+peace	what hippies want	noun	piece	what hippies want	noun
+peak	mountain top	noun	peek	secret look	verb
+peal	ringing sound	noun	peel	fruit wrapping	verb
+pealed	rang with sound	verb	peeled	ready to eat	verb
+pearl	round, luminescent gem from an oyster	noun	purl	to edge with a chain of small loops	adjective
+pearl	something of value made from an irritant	noun	Perl	something of value made from an irritant	noun
+pedal	foot control	noun	peddle	to sell	verb
+peer	an equal (a captain at sea has no peer)	verb	pier	wharf (a captain at sea has no pier)	noun
+pencil	writing implement	noun	pensil	thin, swallowtail flag	unknown
+per	for each	preposition	purr	endearing cat hum	verb
+pi	3.1416	noun	pie	good eating	noun
+picnic	outdoor meal	noun	pyknic	physiological type with thick neck, large abdomen and short limbs	adjective
+pieced	assembled from pieces	verb	piste	a ski run of compacted snow	noun
+pincer	claw-like gripping action	noun	pincher	one who pinches	unknown
+pistil	seed-bearing organ of a flower	noun	pistol	hand gun	noun
+place	a location	noun	plaice	a flounder	noun
+plain	not fancy	adjective	plane	a surface	noun
+plait	braid	noun	plate	a dish	noun
+planar	flat	adjective	planer	one who planes	unknown
+pleas	crys for help	noun	please	good manners	verb
+pleural	related to lungs	unknown	plural	more than one	adjective
+plum	purple fruit	noun	plumb	straight up and down	verb
+polar	relating to the North or South poles	adjective	poler	one who uses a pole	unknown
+Pole	a person from Poland	noun	pole	big stick	noun
+poled	a pole was used	verb	polled	lacking horns	adjective
+pone	the dealer's opponent in two-handed card games	noun	pony	a small horse	noun
+poor	no money	adjective	pore	careful study; microscopic hole	noun
+popery	a disparaging term for Catholics	noun	potpourri	a miscellaneous collection	noun
+praise	to commend	verb	prays	worships God	verb
+pray	worship God	verb	prey	hunt	noun
+precedence	priority	noun	precedents	established course of action	noun
+presence	the state of being present	noun	presents	what Santa brings	verb
+pride	ego	noun	pryed	opened	unknown
+pries	wedging open	verb	prize	the reward	noun
+prince	son of the King	noun	prints	impressions	verb
+principal	head of school	adjective	principle	causative force	noun
+profit	money earned	noun	prophet	seer	noun
+pros	multiple experts	noun	prose	ordinary language	noun
+psi	twenty-third letter of Greek alphabet	noun	sigh	sad and weary breath	verb
+quarts	several fourths-of-gallons	noun	quartz	crystalline rock	noun
+quince	small, round fruit	noun	quints	multiple quintuplets	noun
+rabbet	a groove cut in a board	noun	rabbit	small mammal	noun
+rack	shelf	noun	wrack	wreckage	noun
+racket	illegal moneymaking scheme	noun	racquet	woven bat for tennis	unknown
+rain	precipitation	noun	reign	sovereign rule	verb
+raise	elevate	verb	rays	thin beams of light	noun
+rap	a sharp knock	verb	wrap	to encase in cloth	verb
+rapped	knocked sharply	verb	rapt	spellbound	adjective
+ray	arrow of light	noun	re	musical note	preposition
+read	having knowledge from reading	verb	red	a primary color	adjective
+read	to get the meaning by looking	verb	rede	advice	noun
+reading	what you are doing now	noun	reeding	a small semicylindrical moulding or ornamentation	noun
+reads	gets the meaning by looking	verb	reeds	more than one aquatic plant	noun
+real	authentic	adjective	reel	armature for winding	noun
+recede	to move backward	verb	reseed	to plant again	verb
+reck	to care	verb	wreck	a ruin	noun
+reek	smells bad	verb	wreak	to inflict	verb
+resinate	to impregnate with resin	verb	resonate	sympathetic vibration	verb
+resisters	protesters	unknown	resistors	electrical restrictors	noun
+rest	stop working	verb	wrest	take away	verb
+retch	call Ralph on the porcelain telephone	verb	wretch	a ragamuffin	noun
+review	a general survey or assessment	noun	revue	a series of theatrical sketches or songs	noun
+rheum	watery discharge of mucous	noun	room	partitioned space	noun
+rheumy	having a watery discharge of mucous	adjective	roomie	colloquialism for "roommate"	noun
+rho	seventeenth letter of Greek alphabet	noun	roe	fish eggs	noun
+rhumb	a constant compass direction	noun	rum	liquor distilled from sugar cane	noun
+rhyme	a verse with regular recurrence of sounds	noun	rime	frost	noun
+rigger	one who rigs	noun	rigor	discipline	noun
+right	correct	adjective	rite	ritual	noun
+ring	circle around your finger	noun	wring	twisting	verb
+rise	to stand up	verb	ryes	varieties of grain	noun
+road	a broad trail	noun	rode	past tense of ride	verb
+roam	to wander	verb	Rome	Italian capital	unknown
+roil	to make turbid	verb	royal	worthy of a king or queen	adjective
+role	part to play	noun	roll	rotate	verb
+rood	a cross	noun	rude	coarse	adjective
+roomer	a tenant	noun	rumor	gossip	noun
+root	subterranean part of a plant	noun	route	path of travel	noun
+rose	pretty flower	noun	rows	linear arrangement	noun
+rot	decay	verb	wrought	made	adjective
+rote	by memory	noun	wrote	has written	verb
+rough	coarse	adjective	ruff	pleated collar	noun
+rout	to force out	noun	route	path of travel	noun
+roux	cooked butter and flour	noun	rue	regret	verb
+rude	impolite	adjective	rued	regretted	verb
+rye	grain	noun	wry	twisted	adjective
+sachet	a small bag containing perfumed powder	noun	sashay	to strut or flounce	verb
+sacks	bags	noun	sax	short for saxophone	noun
+sail	wind powered water travel	noun	sale	the act of selling	noun
+sane	mentally normal	adjective	seine	fishing net	noun
+saner	more mentally normal than others	adjective	seiner	one who fishes with a net	unknown
+saver	one who saves	noun	savor	to relish a taste	verb
+sawed	cut timber	verb	sod	turf	noun
+scene	visual location	noun	seen	past tense of saw	verb
+scull	rowing motion	noun	skull	head bone	noun
+sea	ocean	noun	see	to look	verb
+seal	to close	noun	seel	to close someone's eyes	verb
+seam	row of stitches	noun	seem	appears	verb
+seamen	sailors	noun	semen	male discharge	noun
+seams	more than one rows of stitching	noun	seems	it appears to be	verb
+sear	scorched	verb	seer	a person who sees	noun
+seas	oceans	noun	sees	looks	verb
+sects	religious factions	noun	sex	if you have to ask, you're too young	noun
+seek	to look for	verb	Sikh	Hindu religious sect	noun
+serf	slave	noun	surf	breaking waves	noun
+serge	strong twilled fabric	noun	surge	forceful push	noun
+sew	needle and thread	verb	so	in the manner shown	adverb
+sewer	one who sews	noun	sower	one who sows	unknown
+sewer	waste drain	noun	suer	one who sues	unknown
+shake	vibrate	verb	sheik	Arab prince	unknown
+shall	is allowed	verb (modal)	shell	aquatic exoskeleton	noun
+she'll	contraction of "she will"	contraction	shill	a decoy	noun
+shear	to cut or wrench	verb	sheer	thin; abrupt turn	adjective
+shears	cuts or wrenches; scissors	noun (plural)	sheers	abruptly turns	noun
+sheave	pulley	noun	shiv	knife	noun
+shoe	footwear	noun	shoo	"go away"	exclamation
+shoes	more than one shoe	noun	shoos	sends away	verb
+sic	to set upon	adverb	sick	ill	adjective
+sics	sets upon	verb	six	whole number	number (cardinal)
+side	lateral	noun	sighed	breathed sorrowfully	verb
+sighs	multiple sad and weary breaths	verb	size	magnitude	noun
+sign	displayed board bearing information	noun	sine	reciprocal of the cosecant	noun
+sink	to submerge	verb	synch	together in time	unknown
+Sioux	tribe of native Americans	adjective	sou	French coin worth five centimes	noun
+slay	kill	verb	sleigh	snow carriage	noun
+sleight	cunning skill	noun	slight	not much	adjective
+slew	past tense of slay	verb	slough	bog	noun
+sloe	blackthorn berries	noun	slow	not fast	adjective
+soar	fly	verb	sore	hurt	adjective
+soared	to have sailed through the air	verb	sword	long fighting blade	noun
+solace	comfort	noun	soulless	lacking a soul	adjective
+sole	only	noun	soul	immortal part of a person	noun
+some	a few	determiner	sum	result of addition	noun
+son	male child	noun	sun	star	noun
+sonny	diminutive for male child	noun	sunny	lit by the sun	adjective
+soot	black residue of burning	noun	suit	clothes	noun
+sordid	squalid	adjective	sorted	arranged	adjective
+spade	shovel	noun	spayed	to sterilize a female animal	verb
+spoor	trail of an animal	noun	spore	single cell reproductive body	noun
+staid	reserved	adjective	stayed	remained	verb
+stair	a step	noun	stare	look intently	verb
+stake	wooden pole	noun	steak	slice of meat	noun
+statice	an astringent herb	unknown	status	position with regard to law	noun
+stationary	not moving	adjective	stationery	writing paper	noun
+steal	take unlawfully	verb	steel	iron alloy	noun
+step	a measure taken	noun	steppe	a level, grassy, unforested plain	noun
+stile	narrow passage	noun	style	mode	noun
+stoop	a small porch	verb	stoup	a drinking cup	noun
+storey	the horizontal divisions of a building	unknown	story	a narrative tale	noun
+straight	not crooked	adjective	strait	narrow waterway	noun
+succor	relief	noun	sucker	one who sucks	noun
+suede	split leather	noun	swayed	curved; convinced	verb
+suite	ensemble	noun	sweet	sugary	adjective
+summary	precis	noun	summery	like summer	unknown
+sundae	ice cream with syrup on it	noun	Sunday	first day of the week	noun
+tach	short for tachometer	unknown	tack	small nail	noun
+tacks	small nails	noun	tax	governmental tithe	noun
+tail	spinal appendage	noun	tale	story	noun
+tailer	one who hauls in on a ship's line	unknown	tailor	one who makes clothes	noun
+taper	wedge-shaped	noun	tapir	hoglike, Malaysian mammal	noun
+tare	allowance for the weight of packing materials	noun	tear	to rip	verb
+taught	past tense of teach	verb	taut	stretched tight	adjective
+tea	herbal infusion	noun	tee	golfball prop	noun
+team	a group working together	noun	teem	to swarm	verb
+teaming	a fortuitous pairing	verb	teeming	a swarming	verb
+tear	eyeball lubricant	verb	tier	a horizontal row	noun
+teas	more than one herbal infusion	noun	tease	tantalize	verb
+tenner	English slang for a ten pound note	noun	tenor	tendency	noun
+tense	nervous	adjective	tents	more than one temporary shelter	noun
+tern	a shorebird	noun	terne	alloy of lead and tin	noun
+Thai	from Thailand	adjective	tie	a draw	verb
+the	denoting persons already mentioned	determiner	thee	objective case of thou	unknown
+their	belonging to them	determiner (possessive)	there	a place	adverb
+threw	to propel by hand	verb	through	from end to end	preposition
+throe	a spasm of pain	unknown	throw	to discharge through the air	verb
+throes	spasms of pain	noun (plural)	throws	discharging through the air	verb
+throne	the royal seat	noun	thrown	was hurled	verb
+thyme	herb	noun	time	natures way of keeping everything from happening at once	noun
+tic	twitch	noun	tick	small noise; parasitic bug	noun
+ticks	the sounds of a clock	noun	tics	more than one twitch	noun
+tide	periodic ebb and flow of oceans	noun	tied	passed tense of tie	verb
+tighten	to make tighter	verb	titan	a giant	unknown
+timber	wood for building	noun	timbre	musical quality	noun
+tire	round, rubber things on your car	verb	tyer	one who ties	unknown
+to	toward	preposition	too	also	adverb
+toad	frog	noun	toed	having toes	verb
+tocsin	an alarm	noun	toxin	a poison	noun
+tocsins	more than one alarm	noun	toxins	more than one poisons	noun
+toe	forepart of the foot	noun	tow	to pull ahead	verb
+told	what was spoken	verb	tolled	a bell was rung	verb
+tole	lacquered metalware	noun	toll	a tax or charge	noun
+ton	2000 lbs.	noun	Tun	a large cask	noun
+tongue	mouth muscle	noun	tung	Chinese tree and its oil (similar to linseed)	unknown
+toon	cartoon personality	noun	tune	song	noun
+tort	a sweet cake for lawyers	noun	torte	a sweet cake for kids	noun
+tough	difficult	adjective	tuff	a stratified, porous rock	noun
+tracked	having tracks	verb	tract	a plot of land	noun
+tray	a platter	noun	trey	three; Bill Gates' nickname	noun
+troop	a company of soldiers	noun	troup	a company of actors	unknown
+trooper	a private soldier	noun	trouper	a staunch colleague	noun
+troopers	several soldiers	noun	troupers	multiple actors	noun
+trussed	tied up	verb	trust	faith	noun
+vain	worthless	adjective	vane	flat piece moving with the air	noun
+vale	valley	noun	veil	gauzy fabric	noun
+vary	to change	verb	very	extremely	adverb
+verses	paragraphs	noun	versus	against	preposition
+vial	narrow glass container	noun	vile	despicable	adjective
+vice	bad habit	noun	vise	bench-mounted clamp	noun
+WACs	members of the Women's Army Corps	unknown	wax	candle stuff	noun
+wade	walk in shallow water	verb	weighed	weight was measured	verb
+wail	a cry	noun	wale	welt; corduroy ridge	noun
+wain	a wagon	noun	wane	decrease	verb
+waist	between ribs and hips	noun	waste	make ill use of	verb
+wait	remain in readiness	verb	weight	an amount of heaviness	noun
+waive	give up rights	verb	wave	undulating motion	verb
+waiver	contract for giving up rights	noun	waver	rocking motion	verb
+Wales	Western division of UK	unknown	wales	corduroy ridges	unknown
+walk	perambulate	verb	wok	Chinese cooking pan	noun
+walks	moves by foot	verb	woks	salient feature of a Chinese kitchen	noun
+want	desire	verb	wont	accustomed	adjective
+war	large scale armed conflict	noun	wore	past tense of wear	verb
+ware	merchandise	noun	wear	attire	verb
+warn	to advise of a hazard	verb	worn	displaying evidence of use	adjective
+warrantee	one who is protected by a guarantee	noun	warranty	a guarantee	noun
+warship	naval implement of destruction	noun	worship	revere in a religious manner	noun
+wary	cautious	adjective	wherry	light row boat	noun
+way	path or direction	noun	weigh	to measure weight	verb
+we	us	pronoun	wee	very small	adjective
+we'd	contraction of "we would"	contraction	weed	like how our flowers won't grow	noun
+we'll	contraction of "we will"	contraction	wheel	what we keep reinventing	noun
+we're	contraction of "we are"	contraction	weir	a low dam, or a fence in a river for catching fish	noun
+we're	contraction of "we are"	contraction	were	past tense plural of "to be"	verb
+we've	contraction of "we have"	contraction	weave	to make cloth	verb
+weak	not strong	adjective	week	seven days	noun
+weal	a skin welt	noun	wheel	what we in Silicon Valley continually reinvent	noun
+weald	a rural area	unknown	wheeled	having wheels	verb
+weather	meteorological conditions	noun	wether	a castrated ram	noun
+weld	to join metal by melting its edges	verb	welled	pouring forth	verb
+wen	a benign skin tumor	noun	when	at a specific time	adverb
+wet	watery	adjective	whet	prime	verb
+which	selection	pronoun (interrogative)	witch	broomstick ridin' crones	noun
+whig	supporter of American revolution	noun	wig	false hairpiece	noun
+while	during	noun	wile	craft	noun
+whiled	passing the time	verb	wild	untamed	adjective
+whine	annoying cry	noun	wine	fermented grape juice	noun
+whined	past tense of whine	verb	wind	what you do to a clockwork	noun
+whirled	rapidly rotated	verb	world	Earth	noun
+whirred	made a whizzing or buzzing sound	verb	word	a speech sound	noun
+whit	insignificant amount	noun	wit	cleverness; sense of humor	noun
+whither	to which place, point, condition, etc.?	adverb	wither	shrivel up	verb
+who's	contraction of "who is"	contraction	whose	belonging to whom	determiner (interrogative possessive)
+whoa	equestrian directive to stop	exclamation	woe	despair	noun
+why	how come?	adverb	wye	the shape of the letter "Y"	noun
+won't	contraction of "will not"	contraction	wont	accustomed	adjective
+wood	what trees are made of	noun	would	will do	verb (modal)
+worst	least best	adjective	wurst	sausage	noun
+y'all	Southern contraction of "you all"	contraction	yawl	two-masted sailboat with mizzenmast abaft the tiller	noun
+yack	informal talk	unknown	yak	long-haired Tibetan ox	noun
+yoke	oxen harness	noun	yolk	yellow egg center	noun
+yokes	more than one harness	noun	yolks	an omelet	noun
+yore	the past	noun	you're	contraction of "you are"	contraction
+you'll	contraction of "you will"	contraction	yule	Christmas	unknown

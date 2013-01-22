@@ -14,11 +14,6 @@ data = open("processed_homonyms.txt","r").readlines()
 
 for line in data:
      [w1,d1,pos1,w2,d2,pos2]=line.strip().split("\t")
-#     if "flat pad" in  line:
-#        print "w1=["+w1+"]"
-#        print "d1=["+d1+"]"
-#        print "w2=["+w2+"]"
-#        print "d2=["+d2+"]"
      if pos1=='adjective' and pos2=='noun': 
          print joke_type1(d1,d2,w1,w2)
      elif pos1=='noun' and pos2=='adjective': 

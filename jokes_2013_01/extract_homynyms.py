@@ -1,10 +1,15 @@
+'''
+ from http://www.cooper.com/alan/homonym_list.html, extract homonym information
+ as homonym1, definition1, homonym2, defintion2 and then call google dictionary
+ API to determine part of speech (noun, adjective etc) of each of the homonyms
+'''
 from bs4 import BeautifulSoup
 import urllib2
 from bs4 import Comment
 
 filename="homonyms.html"
 page = open(filename,"r").read()
-# for speed of dev, I just downloaded the file and worked off that.
+# for speed of dev, I just downloaded the webpage and worked off that.
 # Alterntively, you could do:
 # url="http://www.cooper.com/alan/homonym_list.html"
 # request = urllib2.Request(url)

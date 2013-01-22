@@ -2,9 +2,12 @@ def indefinite_article(w):
     if w.lower().startswith("a ") or w.lower().startswith("an "): return ""
     return "an " if w.lower()[0] in list('aeiou') else "a "
 
+def camel(s):
+    return s[0].upper() + s[1:]
+
 def joke_type1(d1,d2,w1,w2):
     return "What do you call " + indefinite_article(d1) + d1 + " " + d2 + "? " + \
-           indefinite_article(w1).upper() + w1 + " " + w2 + "."
+           camel(indefinite_article(w1)) + w1 + " " + w2 + "."
 
 def joke_type2(d1,d2,w1,w2):
     return "When is " + indefinite_article(d1)  + d1 + " like " + indefinite_article(d2) + d2 + "? " + \

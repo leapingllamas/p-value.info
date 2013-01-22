@@ -1,4 +1,4 @@
-What do you call a breezy eagle's nest? AN airy aerie.
+What do you call a breezy eagle's nest? An airy aerie.
 When is a stuff we breathe like a 1/100th of a hectare? When it is an are.
 When is a 1/100th of a hectare like a stuff we breathe? When it is an air.
 When is an insect like a parent's sister? When it is an aunt.
@@ -22,10 +22,6 @@ When is a the bottom support for anything like a the lowest musical pitch or ran
 When is a the lowest musical pitch or range like a the bottom support for anything? When it is a base.
 When is a what baseball players like to steal like a principal constituent of anything? When it is a basis.
 When is a principal constituent of anything like a what baseball players like to steal? When it is a bases.
-w1=[bat]
-d1=[a blind, flying rodent]
-w2=[batt]
-d2=[a flat pad]
 When is a blind, flying rodent like a flat pad? When it is a batt.
 When is a flat pad like a blind, flying rodent? When it is a bat.
 When is a bits per second like a brothel manager? When it is a bawd.
